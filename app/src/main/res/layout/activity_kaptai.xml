@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Kaptai">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <TextView
+                android:id="@+id/textView1"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="অবস্থান ও আয়তন" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কাপ্তাই উপজেলার আয়তন ২৫৯ বর্গ কিলোমিটার। চট্টগ্রাম বিভাগের রাঙামাটি পার্বত্য জেলার অন্তর্গত কাপ্তাই উপজেলার ভৌগোলিক অবস্থান ২২°২১′ হতে ২২°৩৫′ উত্তর
+অক্ষাংশ এবং ৯২°৫′ হতে ৯২°১৮′ পূর্ব দ্রাঘিমাংশের মধ্যে। এই উপজেলার উত্তরে কাউখালী ও রাঙ্গামাটি সদর উপজেলা, পূর্বে বিলাইছড়ি ও রাজস্থলী উপজেলা, পশ্চিমে চট্টগ্রামের
+রাঙ্গুনিয়া উপজেলা ও দক্ষিণে রাজস্থলী উপজেলা।" />
+
+
+            <TextView
+                android:id="@+id/textView3"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কাপ্তাই উপজেলার নামকরণে 'কত্থয়' ও 'কিয়ং' শব্দ দু'টির প্রভাব রয়েছে বলে অনেকের ধারণা। কত্থয় অর্থ কোমর আর কিয়ং অর্থ খাল। ১৮৬০ খ্রিস্টাব্দে 'পার্বত্য চট্টগ্রাম'-কে চট্টগ্রাম
+জেলা থেকে আলাদা করে নতুন জেলা সৃষ্টি করার পর কাপ্তাই এর চন্দ্রঘোনায় এর সদর দপ্তর স্থাপন করা হয়। । কাপ্তাই থানা সৃষ্টি হয় ১৯৭৬ সালে এবং থানাকে উপজেলায় রূপান্তর করা
+হয় ১৯৮৫ সালে। কাপ্তাইকে উপজেলায় রূপান্তরের পূর্ব পর্যন্ত এটি রাঙামাটি পার্বত্য জেলার একটি মহকুমা ছিল। এ উপজেলায় বাঙালিসহ চাকমা, মারমা, ত্রিপুরা, মুরং, খিয়াং, তঞ্চঙ্গ্যা,
+পাংখোয়া জাতিসত্বার বসবাস রয়েছে।"/>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="দর্শনীয় স্থান" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কাপ্তাই হ্রদ,"/>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কর্ণফুলী পেপার মিল,"/>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কাপ্তাই বাঁধ,"/>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কাপ্তাই জাতীয় উদ্যান,"/>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কর্ণফুলী পানিবিদ্যুৎ কেন্দ্র,"/>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="নেভীক্যাম্প পিকনিক স্পট,"/>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জুম রেস্তোরা পিকনিক স্পট,"/>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ওয়াগ্গাছড়া টি ষ্টেট - কর্ণফুলী নদীর উভয় তীরে ওয়াগ্গাছড়া এলাকা,"/>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="চিৎমরম বৌদ্ধ মন্দির।"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

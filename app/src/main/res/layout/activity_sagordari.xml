@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sagordari">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মাইকেলের সাগরদাঁড়ির কথা মনে করতেই প্রথমে আসে কপোতাক্ষ নদ। কারণ সরাসরি বঙ্গোপসাগরে সংযোগ থাকা এ নদের কূলেই কবির বাড়ি। বাবার সঙ্গে রাগ করে কবি
+দেশ ছাড়ার পর পুনরায় যে নদের ঘাটে এসে নৌকা ভিড়িয়েছিলেন, সেই নদ এই কপোতাক্ষ। নদের সেই স্মৃতিবিজড়িত ঘাট এখনো আছে। তবে কবির স্মৃতিবিজড়িত নদের সেই
+প্রবাহ আর নেই। নদের অধিকাংশই এখন মাছ চাষ প্রকল্প। দখলদারদের গ্রাসে নদ তার ঐতিহ্য হারালেও সরকারের বিশেষ উদ্যোগে সংরক্ষিত আছে কবির বাড়ি। মধুসূদনকে
+ঘিরে এখানে নির্মিত হয়েছে জেলা পরিষদের ডাকবাংলো, সাগদাঁড়ি পর্যটন কেন্দ্র, মধুসূদন মিউজিয়াম। এছাড়া কপোতাক্ষের পাশে কবির স্মৃতি বিজড়িত কাঠবাদাম গাছ ও
+বিদায় ঘাট পর্যটকদের আকর্ষণ করে চলেছে নিরন্তর।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কথিত আছে ১৮৬৮ সালে কবি যখন সপরিবারে সাগরদাঁড়ি এসেছিলেন তখন ধর্মান্তরিত হওয়ার কারণে জ্ঞাতিরা তাকে বাড়িতে উঠতে দেয়নি। তিনি এ কাঠ বাদাম  গাছের নিচে
+তাঁবু খাটিয়ে ১৪ দিন অবস্থান করেন, পরে বিফল মনে কপোতাক্ষের তীর ধরে হেটে বিদায় ঘাট হতে কলকাতার উদ্দেশে বজরায় উঠেছিলেন। ১৯৬৫ সালে ২৬ অক্টোবর তদানীন্তন
+সরকার বাড়িটি পুরাকীর্তি হিসেবে ঘোষণা করে। মধুসূদনের পরিবারের ব্যবহার্য কিছু আসবাব ও অন্যান্য স্মৃতিচিহ্ন নিয়ে এ বাড়িতেই প্রতিষ্ঠিত হয়েছে মধুসূদন যাদুঘর। স্থাপিত হয়েছে
+লাইব্রেরী। আগামীতে একটি মাইকেল গবেষণাগারও নির্মানের পরিকল্পনা এগিয়ে চলছে। তবে গবেষণাগার নির্মাণের কাজটি এখনও সরকারের দাপ্তরিক পর্যায়ে আছে বলে একুশে
+টেলিভিশন অনলাইনকে জানান সাগরদাঁড়ির তত্বাবধায়ক মহিদুল ইসলাম।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="স্বপ্নের গ্রাম"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="যশোর শহর থেকে কেশবপুর হয়ে সাগরদাঁড়ি যাওয়ার পিচঢালা সরু পথ, দুই পাশে খেজুরগাছের সারি, গাছের ফাঁক দিয়ে ডানে-বামে তাকালে দেখা যাবে খোলা মাঠ। যা মৌসুমের
+শুরুতে প্রস্তুত করা হচ্ছে আবাদের জন্য। অথবা মৌসুমের শেষ পর্যায়ে চলছে ফসল কাটার ধূম। শীত মৌসুমে দেখা যাবে সরষে ফুলে মৌমাছিদের আনাগোনা। তার মাঝে হঠাৎ চোখে
+পড়তে পারে দূরের কোনো বড় আইল দিয়ে দুষ্টু ছেলেদের সাইকেল রেস। অনাবিল এই প্রকৃতির রূপ দেখতে দেখতে কখন কবির বাড়ি গিয়ে পৌঁছবেন সেটা বুঝে উঠতেও পারবেন না।
+সাগরদাঁড়ি গ্রামের বিখ্যাত দত্ত পরিবারের উঠোনে দাঁড়িয়ে যখন ভাববেন, এখানেই ১৮২৪ সালে জন্মগ্রহণ করেছিলেন আধুনিক বাংলা সাহিত্যের জনক। তখনই মনে বইতে থাকবে
+আনন্দের হিল্লোড়। মুহূর্তেই শরীরে সৃষ্টি হবে এক ধরণের শিহরণ।কারণ এই জমিদারবাড়িতে কাটে কবি মধুসূদনের শৈশব। বর্তমানে বাড়িটির চার পাশে রয়েছে অসংখ্য আম-কাঁঠাল
+গাছসহ নানাবিধ বনোজ বৃক্ষ। বৃক্ষের আবরণ ভেদ করে সূর্যের আলো এখানে নামতে পারে না। একান্ত নিরিবিলি ছায়াময় এ পরিবেশে হরেক রকমের পাখির কলতানে মন কখন যে
+হারিয়ে যাবে বুঝে ওটাও কঠিন হতে পারে। এছাড়া শানবাঁধা পুকুরের পাড় ঘেষে বিভিন্ন গুল্ম ও পাতাবাহারী ফুলের দৃশ্য বিমোহিত করতে পারে পর্যটকদের। কবির কাচারী ঘর ও এর
+আশপাশের পাতাবাহারী ফুল গাছের সমাহার পরিবেশকে করেছে দৃষ্টিনন্দন। যেখানে ঘুরে বেড়ানোর মধ্যেই কাটতে পারে দারুণ সময়। ঘুরে ঘুরে দেখা যাবে কবির দাঁড়িয়ে থাকা ইতিহাসের
+সাক্ষী স্মৃতির চিহ্নগুলো। তবে প্রতিবছর জানুয়ারীর শেষ সপ্তাহে যে মধুমেলা অয়োজন করা হয়। সে মেলা উপলক্ষ্যে সাগরদাঁড়িতে লোকসমাগম হয় অনেক বেশি। দর্শনার্থীর ভিড়ে কবির
+স্মৃতিবিজড়িত সব এলাকা ঘুরে দেখা সব সময় সম্ভব নাও হয়ে উঠতে পারে। তখন ভ্রমণটাও অসম্পূর্ণ বা অতৃপ্ত হতে পারে। তাই একটু বেশি ঘুরতে বা দেখতে ভ্রমণটা অর্থপূর্ণ করতে মেলা
+ছাড়া বছরের অন্য সময়ে ভ্রমনটা হতে পারে সঠিক সিদ্ধান্ত।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জমিদারবাড়ি ও যাদুঘর"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জমিদারবাড়ির সামনে রয়েছে কবি মধুসূদন দত্তের দু’টি আবক্ষ মূর্তি। এই বাড়ির ভেতর খোলা হয়েছে জাদুঘর। সেখানে মধুসূদনের পরিবারের ব্যবহৃত খাট, পালঙ্ক, আলনা গচ্ছিত
+করে রাখা হয়েছে। বাড়িটির চার পাশ পাঁচিল দিয়ে ঘেরা। বাড়ির পশ্চিম পাশে বিশাল আকৃতির পুকুর। পুকুরের যে ঘাটে বসে কবি মধুসূদন স্নান করতেন সেই পাকা ঘাটটি আজও কালের
+সাক্ষী হয়ে আছে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কবির বাড়ি এখন প্রত্নতত্ত্ব অধিদফতরের অধীনে রয়েছে। পর্যটন শিল্প বিকাশের লক্ষ্যে কবির জন্মস্থান সাগরদাঁড়িকে মধুপল্লী ঘোষণা করেছে বাংলাদেশ সরকার। প্রত্নতত্ত্ব অধিদফতরে
+যাওয়ার পর রাজবাড়িটি পুনঃসংস্কার করা হয়। কবিকে স্মরণ করতে তার জন্মভূমি সাগরদাঁড়িতে প্রায় দুই কিলোমিটার এলাকাজুড়ে প্রতি বছর ২৫ জানুয়ারি থেকে সংস্কৃতি মন্ত্রণালয়ের
+আয়োজনে ৭ দিনব্যাপী বসে মধূমেলা।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কাঠবাদাম গাছ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জমিদার বাড়ির ভেতরেই রয়েছে শানবাঁধা পুকুর। পুকুরের দক্ষিণ পাশে রয়েছে কবির স্মৃতিবিজড়িত কাঠবাদাম গাছ। কবি ছোটবেলায় এই গাছের গোড়ায় বসে কবিতা লিখতেন।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="তবে কাঠবাদামগাছটি এখন মৃতপ্রায়। যত্নের কিছুটা অভাব আছে বলে মনে হলো। দর্শনার্থী ফুয়াদ আব্দুল্লাহ বলেন, শুধু কাঁঠবাদাম গাছ নয়, কয়েকটি আমগাছও মরে যাওয়ার অবস্থা।
+তিনি বলেন, কাঠবাদাম গাছের গোড়ার ইটের গাঁথুনি খুলে বন বিভাগ অথবা কৃষি অধিদফতরের আওতায় এনে গাছের পরিচর্যা করা হলে মধুস্মৃতি জড়িত গাছটাকে আরও কয়েক বছর
+বাঁচিয়ে রাখা যেত।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কবির স্মৃতিবিজড়িত বিদায় ঘাট"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৮৩০ সালে মধুসূদন সাগরদাঁড়ি ছেড়ে কলকাতা খিদিরপুর যান। তারপর দীর্ঘ পথচলা। কিন্তু ভোলেননি তার জন্মস্থানের কথা, কপোতাক্ষ নদের কথা। মায়ের অসুস্থতার খবর পেয়ে
+১৮৬২ সালে কবি স্ত্রী-ছেলে-মেয়েকে নিয়ে নদী পথে বেড়াতে আসেন সাগরদাঁড়িতে। কিন্তু মায়ের দেখা পাননি। দাম্ভিক পিতার ধর্ম ও কুসংস্কার নাস্তিক ছেলেকে মায়ের সঙ্গে দেখা
+করতে দেয়নি। তখন তিনি চলে যান মামার বাড়ি পাইকগাছার কাঠিপাড়া গ্রামে। মামা বংশধর ঘোষের বাড়ি তিনি আপ্যায়ন পান। সেখান থেকে তিনি মায়ের সঙ্গে দেখা করার জন্য
+কপোতাক্ষ নদের পাড়ে তাঁবুতে কয়েক দিন অপেক্ষা করে আবার কলকাতায় চলে যান। এরপর তিনি আর দেশে ফেরেননি। যে ঘাট থেকে তিনি এ শেষ বিদায় নিয়েছেন তা আজও
+ইতিহাসে বিদায় ঘাট নামে পরিচিত। কবির এই স্মৃতিবিজড়িত বিদায় ঘাট সংস্কারের মাধ্যমে আধুনিকায়ন করা হয়েছে।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ত্রিগম্বুজ জামে মসজিদ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সাগরদাঁড়ি থেকে মাত্র এক কিলোমিটার উত্তর দিকে শেখপুরা গ্রামে অবস্থিত ত্রিগম্বুজ জামে মসজিদ। মসজিদটি মুঘল আমলে নির্মিত। এই মসজিদের তৎকালীন ইমাম ফার্সি
+পণ্ডিত খন্দকার মখমল আহম্মেদের কাছে মধুসূদন শৈশবে বাংলা ও ফার্সি শিক্ষালাভ করেন। এই মসজিদ সংস্কারের অভাবে জরাজীর্ণ হয়ে পড়লে প্রত্নতত্ত্ব অধিদফতরের আওতায়
+সংস্কার করা হয়। মসজিদটি দেখলেই কবির শৈশবস্মৃতি মনে পড়ে যায়।"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

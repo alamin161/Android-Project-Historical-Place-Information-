@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mymensingh">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/mymensingh1"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ময়মনসিংহ মধ্য বাংলাদেশে অবস্থিত একটি বিস্তৃত অঞ্চল। ১৯৭০ খ্রিস্টাব্দ অবধি ময়মনসিংহ জেলা ছিল বাংলাদেশের বৃহত্তম জেলা। অন্যদিকে ময়মনসিংহ শহরটি বাংলাদেশের
+প্রাচীনতম শহরগুলোর মধ্যে অন্যতম। বাংলা সাহিত্যের অনেক প্রাচীন পুস্তকেও এই শহরের নামোল্লেখ দেখা যায়। ময়মনসিংহের ঐতিহ্যের প্রধান অঙ্গ হচ্ছে মৈমনসিংহ গীতিকা যা
+প্রাচীন পুঁথি ও লোকগাঁথার সংকলন হিসেবে প্রকাশিত হয়েছে। ময়মনসিংহ বলতে এখানে সমগ্র বৃহত্তর ময়মনসিংহ (বর্তমান ময়মনসিংহ, নেত্রকোণা, শেরপুর, টাঙ্গাইল, জামালপুর,
+কিশোরগঞ্জ এবং গাজীপুর জেলা) বোঝানো হয়েছে। এখানে প্রাচীনকাল বিবেচনায় নিলে এই অঞ্চলগুলোকে পৃথকভাবে দেখার অবকাশ নেই।"/>
+
+            <TextView
+                android:id="@+id/mymensingh2"
+                android:text="প্রাচীন কাল"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/mymensingh3"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="প্রাচীনকাল বলতে এখানে বৈদিক কাল (খ্রি. পূ্. ২৫০০ অব্দ) থেকে শুরু করে মহাভারতের কাল হয়ে কালীদাসের সময় পর্যন্ত ইতিহাসকে বোঝানো হয়েছে। আর্যরা বহু পূর্বে ভারতবর্ষে
+আগমন করে অনার্যদের বিতারিত করে। তাদের রাজত্ব প্রতিষ্ঠিত হয় পশ্চিমে সুলেমান গিরিপুঞ্জ থেকে পূর্বে গঙ্গা-যমুনার সঙ্গমস্থল, উত্তরে হিমালয় থেকে দক্ষিণে সিন্ধু নদ পর্যন্ত। বেদে
+বঙ্গদেশের কোন উল্লেখ নেই, সুতরাং এটি তখন অরণ্যসংকুল এবং অনার্যদের আবাস ছিল অথবা পূর্বাংশের এই ভূমিটি তখনও বঙ্গোপসাগরে নিমজ্জিত ছিল। এরপর আসে সংহিতার কাল।
+মনুসংহিতায়ও বঙ্গদেশের উল্লেখ নেই। তবে অনুমানের উপর বলা হয় এই অঞ্চল তখন আর্য্যাবর্ত্তের মধ্যে ছিল তবে এখানে আর্য্যধর্ম প্রসার লাভ করেনি। তাই এসময়ে বর্তমান ময়মনসিংহ
+অঞ্চলের কোন অস্তিত্বের কথা জানা যায়না।"/>
+
+            <TextView
+                android:id="@+id/mymensingh4"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এরপর আসে রামায়ণ এবং মহাভারতের কাল। রামায়ণ ও মহাভারতে বঙ্গের বহুল ব্যবহার লক্ষ্য করা যায়। রামায়ণে অঙ্গ, বঙ্গ, মগধ, কাশী, কোশল প্রভৃতি অঞ্চলের উল্লেখ রয়েছে; তবে
+এদের অবস্থানের কোন স্পষ্ট ধারণা নেই। মহাভারত অধ্যয়ন করলে অবস্থানের যে ধারণা পাওয়া যায় তা এরকম: প্রথমত, ভারতবর্ষের পূর্ব প্রান্তে বঙ্গদেশ নামে একটি রাজ্য ছিল; দ্বিতীয়ত,
+সেই দেশ ক্ষুদ্র ক্ষুদ্র রাজ্যে বিভক্ত ছিল; তৃতীয়ত, তখনকার সময়েও তাম্রলিপ্তের (বর্তমান তমলুক) অস্তিত্ব ছিল এবং চতুর্থত, বঙ্গদেশ অতিক্রম করে পূর্বদিকে লৌহিত্য প্রদেশ এবং তার
+পূর্বে লৌহিত্য সাগর বিদ্যমান ছিল। এছাড়া বঙ্গের উত্তর সীমা হিসেবে এখানে প্রাগ্‌জ্যোতিষ দেশের উল্লেখ রয়েছে। তবে এই আলোচনায় ব্রহ্মপুতের অবস্থান জানা যায়না; আর ময়মনসিংহ
+অঞ্চল চিহ্নিতকরণের জন্য ইটিই জানা প্রয়োজন। মহাভারতের বিস্তৃত আলোচনায় জানা যায় ব্রহ্মপুত্র নদ তখন লৌহিত্য সাগর নামে পরিচিত ছিল যা ব্রহ্মকুণ্ড থেকে উৎপন্ন হয়ে হিমালয়ের
+পূর্বপ্রান্ত পর্যন্ত বিস্তৃত ছিল বিধায় আর্য্যবর্ত্তের মধ্য দিয়ে যায়নি। পরশুরাম প্রতিষ্ঠিত লৌহিত্য তীর্থ বলতে এই লৌহিত্য সাগরকেই বুঝানো হয়েছে। মূলত ব্রহ্মপুত্র নদী সাগরের সাথে মিলিত
+হয়েছে বলেই এদের সঙ্গমস্থলের নাম সাগর হয়েছে।"/>
+
+            <TextView
+                android:id="@+id/mymensingh5"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এছাড়া তাম্রলিপ্ত, করতোয়া ও বৈতরণীর উল্লেখ থেকে জানা যায় যে মহাভারতীয় যুগে ময়মনসিংহ জেলাসহ বঙ্গদেশের প্রায় ৩/৪ অংশ লৌহিত্য সাগরে নিমজ্জিত ছিল। আধুনিক
+প্রত্নতত্ত্ববিদরাও এর সাথে একমত হয়েছেন; গঙ্গা ও ব্রহ্মপুত্রের মুখানীত কাঁদা হতেই বঙ্গভূমির সৃষ্টি হয় বলে তারা অনুমান করেন। কারণ হিমালয়ের সন্নিহিত অঞ্চলেও অনেক সামুদ্রিক
+প্রাণীর কঙ্কাল ও অন্যান্য নিদর্শন পাওয়া গেছে।এর সাথেই ভেসে উঠে বর্তমান ময়মনসিংহ অঞ্চল। এরপর প্রায় ৩০০০ বছর অতিবাহিত হয়, এই সময়ের বর্ণনা পাওয়া যায় পুরাণে। প্রকৃতপক্ষে
+এই সময়েই লৌহিত্যগর্ভ থেকে বঙ্গদেশ উত্থিত হচ্ছিল এবং সেই সাথে ব্রহ্মপুত্র তীর্থরাজ হিসেবে এই দেশে পূজিত হচ্ছিল।"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

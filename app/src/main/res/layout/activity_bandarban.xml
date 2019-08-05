@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bandarban">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/bandarban1"
+                android:text="নামকরণের ইতিহাস"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/bandarban2"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+বান্দরবান জেলার নামকরণ নিয়ে একটি কিংবদন্তি রয়েছে। এলাকার বাসিন্দাদের প্রচলিত রূপ কথায়  আছে অত্র এলাকায়  একসময় বাস করত অসংখ্য বানর । আর এই বানরগুলো
+শহরের প্রবেশ মুখে  ছড়ার  পাড়ে পাহাড়ে প্রতিনিয়ত লবণ  খেতে আসত। এক সময় অনবরত বৃষ্টির কারণে ছড়ার পানি বৃ্দ্ধি পাওয়ায় বানরের দল ছড়া পাড় হয়ে পাহাড়ে যেতে না পারায়
+একে অপরকে ধরে ধরে সারিবদ্ধভাবে ছড়া পাড় হয়। বানরের ছড়া পারাপারের এই দৃশ্য দেখতে পায় এই জনপদের মানুষ।  এই সময় থেকে এই জায়গাটির পরিচিতি লাভ করে ম্যাঅকছি ছড়া
+            হিসাবে । অর্থ্যাৎ মার্মা ভাষায় ম্যাঅক অর্থ  বানর  আর ছিঃ অর্থ বাঁধ । কালের প্রবাহে বাংলা ভাষাভাষির সাধারণ উচ্চারণে এই এলাকার নাম রুপ লাভ করে বান্দরবান হিসাবে ।  বর্তমানে
+            সরকারি দলিল পত্রে বান্দরবান হিসাবে এই জেলার নাম স্থায়ী রুপ লাভ করেছে। তবে মার্মা ভাষায় বান্দরবানের নাম রদ ক্যওচি ম্রো।"/>
+
+            <TextView
+                android:id="@+id/bandarban3"
+                android:text="জেলা রূপে আবির্ভাব"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/bandarban4"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বৃটিশ শাসন আমলে ১৮৬০ সালে পার্বত্য চট্টগ্রামকে জেলা ঘোষণা করা হয়। তৎকালীন সময়ে বান্দরবান পার্বত্য চট্টগ্রাম জেলার অধীন ছিলো। ক্যাপ্টেন মাগ্রেথ ছিলেন পার্বত্য চট্টগ্রাম
+জেলার প্রথম সুপারিনট্যানডেন্ট। ১৮৬৭ সালে পার্বত্য চট্টগ্রাম জেলার সুপারিনট্যানডেন্ট পদটির কার্যক্রম আরও বিস্তৃত করা হয় এবং ১৮৬৭ সালে এই পদটির নামকরণ করা হয় ডেপুটি
+কমিশনার। পার্বত্য চট্ট্রগাম জেলার প্রথাম ডেপুটি কমিশনার ছিলেন টি, এইচ লুইন। ১৯০০ সালের পার্বত্য চট্টগ্রাম রেগুলেশন অনুসারে পার্বত্য চট্টগ্রামকে তিনটি সার্কেলে বিভক্ত করা
+হয়-চাকমা সার্কেল, মং সার্কেল, এবং বোমাং সার্কেল। প্রত্যেক সার্কেলের জন্য একজন সার্কেল চীফ নিযুক্ত ছিলেন। বান্দরবান তৎকালীন সময়ে বোমাং সার্কেলের অর্ন্তভুক্ত ছিলো। বোমাং
+সার্কেলের অন্তর্ভূক্ত হওয়ার কারণে এই জেলার আদি নাম বোমাং থং। "/>
+
+            <TextView
+                android:id="@+id/bandarban5"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বান্দরবান জেলা ১৯৫১ সালে মহকুমা হিসেবে প্রশাসনিক কার্যক্রম শুরু করে। এটি রাংগামাটি জেলার প্রশাসনিক ইউনিট ছিলো। পরর্বতীতে ১৯৮১ সালের ১৮ই এপ্রিল, তৎকালিন লামা
+মহকুমার ভৌগলিক ও প্রশাসনিক সীমানাসহ সাতটি উপজেলার সমন্বয়ে বান্দরবান পার্বত্য জেলা হিসাবে আত্মপ্রকাশ করে।"/>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".National_plant_garden">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাতীয় উদ্ভিদ উদ্যান, বাংলাদেশ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাতীয় উদ্ভিদ উদ্যান বা বাংলাদেশ ন্যাশনাল হার্বেরিয়াম বাংলাদেশে উদ্ভিদ প্রজাতি সংরক্ষণ, গবেষণা ও প্রদর্শনের সবচেয়ে বড় কেন্দ্র হিসেবে বিবেচিত। কেন্দ্রটি ন্যাশনাল বোটানিক্যাল
+গার্ডেন নামেও পরিচিত। উদ্যানটি ঢাকার মিরপুরে ঢাকা চিড়িয়াখানার পাশে অবস্থিত। ১৯৬১ সালে প্রায় ২০৮ একর (৮৪ হেক্টর) জায়গা জুড়ে উদ্যানটি প্রতিষ্ঠিত হয়। ঢাকার আরেকটি উদ্যান
+বলধা গার্ডেন প্রশাসনিক দিক দিয়ে এই উদ্যানেরই অংশ। জাতীয় উদ্ভিদ উদ্যান বাংলাদেশের অন্যতম বৃহৎ উদ্ভিদ উদ্যান। প্রতিবছর প্রায় ১৫ লক্ষ দর্শনার্থী উদ্যানটিতে বেড়াতে আসেন।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ব্যবস্থাপনা ও সংগ্রহ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাতীয় উদ্ভিদ উদ্যানে বর্তমানে ১১৭টি গোত্রভুক্ত ৯৫২ প্রজাতির গাছপালা রয়েছে। এর মধ্যে ২৫৬টি প্রজাতির ৩৫ হাজার বৃক্ষ, ৩১০ প্রজাতির ১০ হাজার গুল্ম , ৩৭৮ প্রজাতির ১২ হাজার
+বিরুৎ ও লতা জাতীয় উদ্ভিদ। ২০৮ একর উদ্যানটি মোট ৫৭টি সেকশনে বিভক্ত। এতে আছে বিভিন্ন আকারের মোট ৭টি জলাশয়। জলাশয়গুলোর মোট আয়তন ১১ একর। একটি জলাশয়ের
+পাশে রয়েছে কৃত্রিম জলপ্রপাত ও ডেক। আরও রয়েছে শাপলা পুকুর ও গোলাকৃতির পদ্মপুকুর। শাপলা পুকুরে বছরের এপ্রিল থেকে সেপ্টেম্বর মাসে শাপলা ফোটে। একসময় শীতকালে
+বড় জলাশয়গুলোতে হাঁসজাতীয় পরিযায়ী পাখিরা আসত। এখন আর আসে না। জাতীয় উদ্যানের ১.৫ একর জুড়ে রয়েছে মৌসুমি ফুলের বাগান। সালভিয়া, মর্নিংগ্লোরি, মেরিগোল্ড, ডালিয়াসহ
+প্রায় ৫২ জাতের বিদেশি মৌসুমি ফুলের চাষ করা হয় এ বাগানে। বাগান ঘিরে রয়েছে একটি আঁকাবাঁকা কৃত্রিম লেক। ১৯৮০ সালে প্রায় ৩.৫ একর জায়গার উপর নির্মিত হয় উদ্যানের গোলাপ
+বাগান। দু'টি পৃথক বাগানে প্রায় ২০০ প্রজাতির গোলাপ সংগ্রহে রয়েছে। একটি গোলাপ বাগানের মাঝে রয়েছে গোলাকৃতির একটি জলাশয়। এই জলাশয়ে সংরক্ষিত রয়েছে ব্রাজিলের আমাজন
+লিলি। ১৯৮০-৮১ সালে নির্মাণ করা হয় উদ্যানের দেবদারু-ইউক্যালিপ্টাস বাগান। ইউক্যালিপ্টাসগুলো অস্ট্রেলিয়া থেকে সংগ্রহ করা। ১৬ প্রজাতির ইউক্যালিপ্টাস ও আকাশমণি রয়েছে এখানে।
+বাঁশবাগানে রয়েছে প্রায় ২২ প্রজাতির বাঁশ। গর্জন বাগানের উত্তর পাশে সৃষ্টি করা হয়েছে ভেষজ উদ্ভিদের বাগান। এই বাগানে রয়েছে কালমেঘ, তুলসী, আতমোরা, শতমূলী, পুনর্নভা, থানকুনি,
+আদা, বোতল ব্রাশ, তেলাকুচা, কুমারি লতা, বাসক, বচসহ হরেক ভেষজ উদ্ভিদের সংগ্রহ।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="গ্রিন হাউজ ও নেট হাউজ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="উদ্যানের ক্যাকটাস গ্রিন হাউজে ৮০ প্রজাতির ক্যাকটাস ও সাকুলেন্ট সংরক্ষিত রয়েছে। গ্রিন হাউজটি ১৯৯৪ সালে নির্মিত হয়। বিভিন্ন প্রজাতির ক্যাকটাসের মধ্যে রয়েছে ওল্ডম্যান, ফিসহুক
+ক্যাকটাস, ম্যামিলারিয়া, ক্ষেপালিয়া, মেলো ক্যাকটাস, গোল্ডেন ব্যারেল, সিরিয়াম হেক্সোজেনাস, র‌্যাট টেইল, আপাংসিয়া সিডাম, হাওয়ার্থিয়া, পিকটোরিয়া ইত্যাদি। বেশিরভাগ ক্যাকটাস
+মেক্সিকো থেকে সংগ্রহ করা হয়েছে। অর্কিড গ্রিন হাউজে দেশি-বিদেশি প্রায় ৮৫ প্রজাতির অর্কিড সংরক্ষিত রয়েছে। নেট হাউজে ছায়াতরু সংরক্ষণ করা হয়েছে। প্রায় ১০০ প্রজাতির ছায়াতরু
+রয়েছে এ হাউজে।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

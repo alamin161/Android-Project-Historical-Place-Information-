@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mainamoti">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ময়নামতি"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ময়নামতি বাংলাদেশের কুমিল্লায় অবস্থিত একটি ঐতিহাসিক স্থান। এযাবৎ আবিষ্কৃত লালমাই অঞ্চলের প্রাচীনতম সভ্যতার নিদর্শন হল ময়নামতি প্রত্নস্থল। বর্তমানে ময়নামতি অঞ্চলে যে ধ্বংসস্তূপ দেখা যায় তা প্রকৃতপক্ষে একটি প্রাচীন নগরী ও বৌদ্ধ
+বিহারের অবশিষ্টাংশ । প্রত্নতাত্ত্বিকদের মতে ইহা জয়কর্মান্তবসাক নামক একটি প্রাচীন নগরীর ধ্বংসাবশেষ ।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ময়নামতি প্রত্নস্থলের কিছু উল্লেখযোগ্য স্থাপনা হল :"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কোটিলা মুড়া"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইটাখোলা মুড়া"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রূপবান মুড়া"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="চারপত্র মুড়া"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="শালবন বিহার"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

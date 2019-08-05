@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ratargul_Jolabon">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="চিরসবুজ এ জঙ্গলে আছে নানান রকম বন্যপ্রাণী। পানিতে অর্ধেক গা ডুবিয়ে দাঁড়িয়ে থাকা এই বনের গাছগুলোর ফাঁকে ফাঁকে নৌকায় চড়ে ঘুরে বেড়ানোর মজাই আলাদা।"/>
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সিলেট বন বিভাগের উত্তর সিলেট রেঞ্জে-২ এর অধীন প্রায় তিন হাজার তিনশ একুশ একর জায়গা জুড়ে রাতারগুল জলাবন। এর মধ্যে ৫০৪ একর জায়গায় মূল বন, বাকি জায়গা জলাশয়
+আর সামান্য কিছু উঁচু জায়গা।"/>
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="তবে বর্ষাকালে পুরো এলাকাটিই পানিতে ডুবে থাকে। শীতে প্রায় শুকিয়ে যায় রাতারগুল। তখন কেবল পানি থাকে বনের ভেতরে খনন করা বড় জলাশয়গুলোতে। পুরানো দু’টি বড়
+জলাশয় ছাড়াও ২০১০-১১ সালে রাতারগুলের ভেতরে পাখির আবাসস্থল হিসেবে ৩.৬ বর্গকিলোমিাটারের একটি বড় লেইক খনন করা হয়।"/>
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাতারগুল বনের কোথাও কোথাও গভীরতা অনেক বেশি। এ বনের কোনও কোনও জায়গা ২৫ ফুটেরও বেশি গভীর।"/>
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাতারগুল প্রাকৃতিক বন। এর পরেও বন বিভাগ হিজল, বরুন, করচ, আর মুর্তাসহ কিছু জলসহিষ্ণু জাতের গাছ লাগিয়েছে। এছাড়াও রাতারগুলের গাছ পালার মধ্যে উল্লেখযোগ্য হল:
+কদম, জালি বেত, অর্জুনসহ জলসহিষ্ণু আরও প্রায় ২৫ প্রজাতির গাছপালা।"/>
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সিলেটের শীতল পাটি তৈরির মূল উপাদান মুর্তার বড় একটা অংশ এ বন থেকেই আসে।"/>
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাংলাদেশ বন বিভাগ ১৯৭৩ সালকে রাতারগুল বনের ৫০৪ একর এলাকাকে বন্যপ্রাণী অভয়াশ্রম হিসেবে ঘোষণা করে। এ বনে দেখা যায় নানান প্রজাতির পাখি। এ সবের মধ্যে উল্লেখযোগ্য
+হল: মাছরাঙা, বিভিন্ন প্রজাতির বক, ঘুঘু, ফিঙে, বালিহাঁস, পানকৌড়ি ইত্যাদি।"/>
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বন্যপ্রাণীর মধ্যে আছে— বানর, উদবিড়াল, কাঠবিড়ালি, মেছোবাঘ ইত্যাদি। নানান প্রজাতির সাপেরও অভায়শ্রম এই বন।"/>
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাতারগুল জলাবনের একেবারে শুরুর দিকটায় মুর্তার বন। জুলাই থেকে সেপ্টেম্বর পর্যন্ত এ খোলা জায়গার পুরোটাই পানিতে ডুবে থাকে। এর পরেই মূল বন। বনের গহীনে গাছের ঘনত্ব বেশি।
+কোথাও কোথাও সূর্যের আলো পর্যন্ত পানি ছুঁতে পারে না। কয়েকদিন পাহাড়ি ঢল না থাকলে বনের পানি এত বেশি স্বচ্ছ হয় যে, বনের সবুজ প্রতিবিম্বকে মনে হয় বনের নিচে আরেকটি বন।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

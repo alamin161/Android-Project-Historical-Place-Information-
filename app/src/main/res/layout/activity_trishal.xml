@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Trishal">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ত্রিশাল হানাদার মুক্ত দিবস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৯৭১ সালের ৯ ডিসেম্বর ময়মনসিংহ জেলার ত্রিশাল থানার মুক্তিকামী জনতা রাতব্যাপী পাক বাহিনীকে সন্মুখ যুদ্ধে পরাজিত করে বিজয় অর্জন করে এবং স্বাধীন
+বাংলাদেশের পতাকা আনুষ্ঠানিকভাবে উত্তোলন করে। ৮ ডিসেম্বর রাত ১১টার দিকে মেজর আফসার বাহিনীর যুদ্ধকালীন কমান্ডার শাহ আনছার উদ্দিন মাস্টারের নির্দেশে
+কোম্পানি কমান্ডার আ. বারী মাস্টার একদল গেরিলা যোদ্ধা নিয়ে ত্রিশাল থানার পাশে বয়ে যাওয়া সূতীয়া নদীর তীরে থানার ৪শ গজ দক্ষিণে মুক্তিযোদ্ধাদের নিয়ে ওৎ পেতে
+বসে থাকে। রাত আনুমানিক ১টার দিকে দক্ষিণ ও পশ্চিম দিক দিয়ে আক্রমণ শুরু করলে পাকবাহিনী ভীত হয়ে উঠে। পাক সেনারা কূলকিনারা না পেয়ে ভোর হবার আগেই
+জেলা সদরের দিকে পালিয়ে যায়। মুক্তিযোদ্ধাসহ এলাকার বীর বাঙালিরা ত্রিশাল থানা দখল করতে সক্ষম হয়। ওইদিন সকাল ৭টার সময় কোম্পানি কমান্ডার আব্দুল বারী মাস্টার
+মুক্তিযোদ্ধাদের সঙ্গে নিয়ে থানা প্রাঙ্গণে জাতীয় পতাকা উত্তোলন করে। এ যুদ্ধে গিয়াস উদ্দিন নামে এক মুক্তিযোদ্ধা আত্মঘাতি বুলেটে নিহত হন।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

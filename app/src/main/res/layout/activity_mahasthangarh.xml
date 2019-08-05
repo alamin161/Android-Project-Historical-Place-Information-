@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mahasthangarh">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মহাস্থানগড়"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মহাস্থানগড় বাংলাদেশের একটি অন্যতম প্রাচীন পুরাকীর্তি। প্রসিদ্ধ এই নগরী ইতিহাসে পুণ্ড্রবর্ধন বা পুণ্ড্রনগর নামেও পরিচিত ছিল। এক সময় মহাস্থানগড় বাংলার রাজধানী ছিল। যিশু খ্রিষ্টের
+জন্মেরও আগে অর্থাৎ প্রায় আড়াই হাজার বছর পূর্বে এখানে সভ্য জনপদ গড়ে উঠেছিল প্রত্নতাত্ত্বিক ভাবেই তার প্রমাণ মিলেছে। ২০১৬ সালে এটি সার্কের সাংস্কৃতিক রাজধানী হিসেবে ঘোষণা হয়।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="প্রাচীর বেষ্টিত এই নগরীর ভেতর রয়েছে বিভিন্ন আমলের প্রত্নতাত্ত্বিক নিদর্শন। কয়েক শতাব্দী পর্যন্ত এ স্থান পরাক্রমশালী মৌর্য, গুপ্ত, পাল ও সেন শাসকবর্গের প্রাদেশিক রাজধানী ও
+পরবর্তীকালে হিন্দু সামন্ত রাজাদের রাজধানী ছিল। তৃতীয় খ্রিষ্টপূর্বাব্দ থেকে পঞ্চদশ খ্রিষ্টাব্দ পর্যন্ত অসংখ্য হিন্দু রাজা ও অন্যান্য ধর্মের রাজারা রাজত্ব করেন। মহাস্থানগড়ের অবস্থান
+বগুড়া জেলার শিবগঞ্জ উপজেলায় । বগুড়া শহর থেকে প্রায় ১৩ কি.মি. উত্তরে করতোয়া নদীর পশ্চিম তীরে গেলে এই শহরের ধ্বংসাবশেষ দেখা যায়৷।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বিখ্যাত চীনা পরিব্রাজক হিউয়েন সাঙ ৬৩৯ থেকে ৬৪৫ খ্রিষ্টাব্দের মধ্যবর্তী সময়ে পুন্ড্রনগরে এসেছিলেন। ভ্রমণের ধারাবিবরণীতে তিনি তখনকার প্রকৃতি ও জীবনযাত্রার উল্লেখ করে বর্ণনা
+দেন। বৌদ্ধ শিক্ষার জন্য প্রসিদ্ধ হওয়ায় চীন ও তিব্বত থেকে ভিক্ষুরা তখন  মহাস্থানগড়ে আসতেন লেখাপড়া করতে৷ এরপর তাঁরা বেরিয়ে পড়তেন দক্ষিণ ও পূর্ব এশিয়ার বিভিন্ন দেশে।
+সেখানে গিয়ে তাঁরা বৌদ্ধ ধর্মের শিক্ষার বিস্তার ঘটাতেন ৷"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সেন বংশের শেষ রাজা লক্ষ্মণসেন (১০৮২-১১২৫) যখন গৌড়ের রাজা ছিলেন তখন এই গড় অরক্ষিত ছিল। মহাস্থানের রাজা ছিলেন নল যার বিরোধ লেগে থাকত তার ভাই নীল এর সাথে।
+এসময় ভারতের দাক্ষিণাত্যের শ্রীক্ষেত্র নামক স্থান থেকে এক অভিশপ্ত ব্রাহ্মণ এখানে অসেন পাপের প্রায়শ্চিত্ত করতে। তিনি পরশু বা কুঠার দ্বারা মাতৃহত্যার দায়ে অভিশপ্ত ছিলেন।
+পরবর্তীতে তিনিই এই দুই ভাইয়ের বিরোধের অবসান ঘটান এবং রাজা হন। এই ব্রাহ্মণের নাম ছিল রাম। ইতিহাসে তিনি পরশুরাম নামে পরিচিত। কিংবদন্তি অনুযায়ী তিনি ছিলেন একজন
+অত্যাচারী।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজা পরশুরামকে উচ্ছেদ করে ইসলাম ধর্মের শান্তি প্রতিষ্ঠা করতে আসেন ফকির বেশি আধ্যাত্মিক শক্তিধারী দরবেশ হযরত শাহ সুলতান মাহমুদ বলখী (র:) এবং তার শীষ্য। ধর্ম প্রচারক
+শাহ্ সুলতান বলখী (রঃ) সম্পর্কে রয়েছে আশ্চর্য কিংবদন্তি।[৭] কথিত আছে, তিনি মহাস্থানগড় অর্থাৎ প্রাচীন পুন্ড্রনগরে প্রবেশ করার সময় করতোয়া নদী পার হয়েছিলেন একটা বিশাল
+মাছের আকৃতির নৌকার পিঠে চড়ে। মহাস্থানগড় পৌছে তিনি ইসলামের দাওয়াত দিতে থাকেন, প্রথমে রাজা পরশুরামের সেনাপ্রধান, মন্ত্রি এবং কিছু সাধারণ মানুষ ইসলামের বার্তা গ্রহণ
+করে মুসলিম হয়। এভাবে পুন্ড্রবর্ধনের মানুষ হিন্দু ধর্ম থেকে ইসলাম ধর্ম গ্রহণ করতে থাকলে রাজা পরশুরামের সাথে শাহ সুলতানের বিরোধ বাধে এবং এক সময় সুলতান বলখী
+পুন্ড্রবর্ধনের শেষ রাজা পরশুরামকে (১২০৫-১২২০) যুদ্ধে পরাজিত করে পুন্ড্রবর্ধন জয় করেন।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

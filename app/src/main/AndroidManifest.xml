@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dcl.androidproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".WelcomeScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".OptionMenu" />
+        <activity android:name=".ArchaeologicalPatterns" />
+        <activity android:name=".ForestsAndZoos" />
+        <activity android:name=".HistoricalPlaces" />
+        <activity android:name=".OtherInterestingPlaces" />
+        <activity android:name=".HilllsAndIslands" />
+        <activity android:name=".Sea_Beach" />
+        <activity android:name=".Lalbagh_Fort" />
+        <activity android:name=".Mughal_Eidghah" />
+        <activity android:name=".Wari_Bateshwar" />
+        <activity android:name=".Mainamoti" />
+        <activity android:name=".Paharpur_Buddhist_Bihar" />
+        <activity android:name=".Mahasthangarh" />
+        <activity android:name=".Kantaji_Temple" />
+        <activity android:name=".Sixty_Dome_Mosque" />
+        <activity android:name=".Kotka" />
+        <activity android:name=".Kuakata" />
+        <activity android:name=".Saint_Martin_Island" />
+        <activity android:name=".Teknaf" />
+        <activity android:name=".Coxs_Bazar" />
+        <activity android:name=".Parkee" />
+        <activity android:name=".Patenga_Beach" />
+        <activity android:name=".Sonargaon" />
+        <activity android:name=".Sundarbans" />
+        <activity android:name=".Ratargul_Jolabon" />
+        <activity android:name=".Father_of_the_Nation" />
+        <activity android:name=".National_Memorial" />
+        <activity android:name=".Central_Shaheed_Minar" />
+        <activity android:name=".Martyr_intellectuals_memorials" />
+        <activity android:name=".National_poet_mausoleum" />
+        <activity android:name=".Curzon_Hall" />
+        <activity android:name=".Balda_Garden" />
+        <activity android:name=".Suhrawardy_Udyan" />
+        <activity android:name=".Old_High_Court_Building" />
+        <activity android:name=".Bahadur_shah_park" />
+        <activity android:name=".Dighapatiya_Rajbari" />
+        <activity android:name=".Second_World_War_cemetery" />
+        <activity android:name=".Shilaidaha_Kuthibari" />
+        <activity android:name=".Sagordari" />
+        <activity android:name=".Mujibnagar_Memorial_Museum" />
+        <activity android:name=".Trishal" />
+        <activity android:name=".Gandhi_Ashram" />
+        <activity android:name=".Rangamati" />
+        <activity android:name=".Kaptai" />
+        <activity android:name=".Bandarban" />
+        <activity android:name=".Khagrachari" />
+        <activity android:name=".Mymensingh" />
+        <activity android:name=".Sylhet" />
+        <activity android:name=".Maheshkhali_Island" />
+        <activity android:name=".Sonadia_Island" />
+        <activity android:name=".National_parliament_building" />
+        <activity android:name=".Bangabhaban" />
+        <activity android:name=".Shankaribazar" />
+        <activity android:name=".Sadarghat" />
+        <activity android:name=".Ramna_park" />
+        <activity android:name=".National_plant_garden" />
+        <activity android:name=".National_Zoo" />
+        <activity android:name=".National_park" />
+        <activity android:name=".Batali_hill" />
+        <activity android:name=".District_Administrator_Hill" />
+        <activity android:name=".Rajshahi" />
+        <activity android:name=".Jamuna_bridges" />
+        <activity android:name=".Madhavkunda" />
+        <activity android:name=".Jaflong" />
+        <activity android:name=".Ahsan_Manjil"></activity>
+    </application>
+
+</manifest>

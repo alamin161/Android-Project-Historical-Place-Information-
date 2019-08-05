@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Khagrachari">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/khagrasori1"
+                android:text="অবস্থান ও সীমানা"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/khagrasori2"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাংলাদেশের দক্ষিণ-পূর্বাংশে ২২°৩৮´ থেকে ২৩°৪৪´ উত্তর অক্ষাংশ এবং ৯১°৪৪´ থেকে ৯২°১১´ পূর্ব দ্রাঘিমাংশ জুড়ে খাগড়াছড়ি জেলার অবস্থান। রাজধানী ঢাকা থেকে
+এ জেলার দূরত্ব প্রায় ২৭০ কিলোমিটার এবং চট্টগ্রাম বিভাগীয় সদর থেকে প্রায় ১১১ কিলোমিটার। এ জেলার পূর্বে রাঙ্গামাটি জেলা, দক্ষিণে রাঙ্গামাটি জেলা ও চট্টগ্রাম জেলা, পশ্চিমে
+চট্টগ্রাম জেলা ও ভারতের ত্রিপুরা প্রদেশ এবং উত্তরে ভারতের ত্রিপুরা প্রদেশ অবস্থিত।"/>
+
+            <TextView
+                android:id="@+id/khagrasori3"
+                android:text="প্রতিষ্ঠাকাল"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/khagrasori4"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৮৬০ সালের ২০ জুন রাঙ্গামাটি, খাগড়াছড়ি ও বান্দরবান- এই তিন পার্বত্য অঞ্চলকে নিয়ে পার্বত্য চট্টগ্রাম জেলা সৃষ্টি হয়। জেলা সৃষ্টির পূর্বে এর নাম ছিল কার্পাস মহল। পার্বত্য চট্টগ্রাম
+জেলা থেকে ১৯৮১ সালে বান্দরবান এবং ১৯৮৩ সালে খাগড়াছড়ি পৃথক জেলা সৃষ্টি করা হয়।"/>
+
+            <TextView
+                android:id="@+id/khagrasori5"
+                android:text="নামকরণ"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/khagrasori6"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="খাগড়াছড়ি একটি নদীর নাম। নদীর পাড়ে খাগড়া বন থাকায় পরবর্তী কালে তা পরিষ্কার করে জনবসতি গড়ে উঠে, ফলে তখন থেকেই এটি খাগড়াছড়ি নামে পরিচিতি লাভ করে।"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

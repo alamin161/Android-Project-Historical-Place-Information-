@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Rajshahi">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজশাহী"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজশাহী বাংলাদেশের উত্তরাঞ্চলের (উত্তরবঙ্গের) একটি শহর। রাজশাহী বাংলাদেশের অনত্যম প্রাচীন ও ঐত্যিহবাহী শহর। রাজশাহী শহর বিখ্যাত পদ্মা নদীর তীরে অবস্থিত। যা
+রাজশাহী বিভাগের বিভাগীয় শহর। রাজশাহী শহরের নিকটে প্রাচীন বাংলার বেশ কয়েকটি রাজধানী শহর অবস্থিত। এদের মাঝে লক্ষণৌতি বা লক্ষনাবতি, পুন্ড্র ইত্যাদি উল্লেখযোগ্য।
+রাজশাহী তার আকর্ষণীয় রেশমীবস্ত্র, আম, লিচু এবং মিষ্টান্নসামগ্রীর জন্য প্রসিদ্ধ। রেশমীবস্ত্রের কারনে রাজশাহীকে রেশমনগরী নামে ডাকা হয়। রাজশাহী শহরে উল্লেখযোগ্য সংখ্যক
+শিক্ষাপ্রতিষ্ঠান রয়েছে যাদের অনেকগুলির খ্যাতি দেশের গণ্ডি ছাড়িয়ে বিদেশেও ছড়িয়ে পড়েছে। নামকরা এসব শিক্ষাপ্রতিষ্ঠানের জন্য রাজশাহী শহর শিক্ষানগরী নামেও পরিচিত।
+রাজশাহী শহরে এবং এর আশেপাশে বেশ কিছু বিখ্যাত ও ঐতিহাসিক মসজিদ, মন্দির ও উপাসনালয় তথা ঐতিহাসিক স্থাপনা রয়েছে।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজশাহী সুপ্রাচীন ঐতিহ্য মণ্ডিত একটি শহর। অনেক আগে থেকে এই শহরটি প্রাচীন বাংলায় পরিচিত ছিল।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="প্রাচীন ও মধ্যযুগ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজশাহী ছিল প্রাচীন বাংলার পুন্ড্র সাম্রাজ্যের অংশ। বিখ্যাত সেন বংশের রাজা বিজয় সেনএর সময়ের রাজধানী বর্তমান রাজশাহী শহর থেকে মাত্র ৯ কিমি দূরে অবস্থিত ছিল।
+মধ্যযুগে বর্তমান রাজশাহী পরিচিত ছিল রামপুর বোয়ালিয়া নামে। এর সূত্র ধরে এখনও রাজশাহী শহরের একটি থানার নাম বোয়ালিয়া।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="আধুনিক যুগ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজশাহী শহরকে কেন্দ্র করে ১৭৭২ সালে জেলা গঠন করা হয়। ১৮৭৬ সালে গঠিত হয় রাজশাহী পৌরসভা। পরবর্তীতে ১৯৯১ সালে রাজশাহী সিটি কর্পোরেশনে রূপান্তরিত হয়।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ব্রিটিশ রাজত্বের সময়েও রাজশাহী বোয়ালিয়া নামে পরিচিত ছিল। তখন এটি ছিল তৎকালীন পূর্ববঙ্গ ও আসাম অঞ্চলের অর্ন্তগত রাজশাহী জেলার প্রশাসনিক কেন্দ্র। রাজশাহীকে সে
+সময়ে রেশম চাষের প্রধান কেন্দ্র হিসেবে নির্বাচন করা হয়েছিল। তখন রাজশাহীতে একটি সরকারী কলেজ ও রেশম শিল্পের জন্য একটি শিক্ষাপ্রতিষ্ঠান স্থাপন করা হয়। সেসময় থেকে
+দেশবিভাগের পূর্ব পর্যন্ত পদ্মা নদীর উপর দিয়ে প্রতিদিন যাত্রীবাহী স্টিমার চলাচল করত।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১২ জুন ১৮৯৭ সালের ভয়াবহ ভূমিকম্পে রাজশাহী শহরের বেশীরভাগ ভবন ক্ষতিগ্রস্থ হয়। পরবর্তীতে অনেক ভবন আবার নতুন করে স্থাপিত হয়।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজশাহী শহরটি দীর্ঘদিন ধরে পুরনো সংস্কৃতি বজায় রেখে এক প্রকার অপরিবর্তিত অবস্থায় ছিলো । কিন্তু প্রাচীন এই শহরটি আধুনিকতার পরশে নতুন রুপে সজ্জিত হয় ২০০৯ সালের
+পর থেকে । জনাব খাইরুজ্জামান লিটন যখন রাজশাহীর মেয়র পদে অধিষ্ট হন তখন দৃশ্যপটের পরিবর্তন হতে শুরু করে। ব্যাপক অবকাঠামোগত উন্নয়নের পাশাপাশি তিনি রাজশাহী
+শহরের পাশ দিয়ে বয়ে চলা পদ্মার পাড়কে সংস্কার করে পার্কের রুপ দান করেন । যেখানে শহরের বাসিন্দারা বিকেলে পরিবারের সবার সাথে একান্তে কিছু সময় কাটাতে পারেন ।
+আধুনিকতার সাথে তাল মিলিয়ে পদ্মার ধারে ফ্রি ওয়াইফাই সুবিধাও দেওয়া হয় তাঁর প্রচেষ্টায় ।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজশাহীর তথ্য ও প্রযুক্তি"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রাজশাহীতে এখন প্রায় ১৫টি সফটওয়ার ফার্ম আছে। তাছাড়া এখানে দক্ষ জনবল তৈরির জন্য প্রায় ১০টি ট্রেনিং সেন্টার আছে; যা দিন দিন বাড়ছে। এখানে বড় দুইটি পাবলিক বিশ্ববিদ্যালয়
+এবং কিছু প্রাইভেট বিশ্ববিদ্যালয় থাকায় আইটির লোকবলের কোন অভাব নেই।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

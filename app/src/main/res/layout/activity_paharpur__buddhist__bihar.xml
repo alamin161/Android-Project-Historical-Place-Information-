@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Paharpur_Buddhist_Bihar">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="পাহাড়পুর বৌদ্ধ বিহার"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="পাহাড়পুর বৌদ্ধবিহার বা সোমপুর বিহার বা সোমপুর মহাবিহার বর্তমানে ধ্বংসপ্রাপ্ত একটি প্রাচীন বৌদ্ধ বিহার। পালবংশের দ্বিতীয় রাজা শ্রী ধর্মপাল দেব (৭৮১-৮২১) অষ্টম শতকের শেষের
+দিকে বা নবম শতকে এই বিহার তৈরি করছিলেন। ১৮৭৯ খ্রিস্টাব্দে স্যার আলেকজান্ডার কানিংহাম এই বিশাল স্থাপনা আবিষ্কার করেন।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="পাহাড়পুরকে পৃথিবীর সবচেয়ে বড় বৌদ্ধবিহার বলা যেতে পারে। আয়তনে এর সাথে ভারতের নালন্দা মহাবিহারের তুলনা হতে পারে। এটি ৩০০ বছর ধরে বৌদ্ধদের অতি বিখ্যাত ধর্ম শিক্ষাদান
+কেন্দ্র ছিল। শুধু উপমহাদেশের বিভিন্ন স্থান থেকেই শুধু নয়, চীন, তিব্বত, মায়ানমার (তদানীন্তন ব্রহ্মদেশ), মালয়েশিয়া, ইন্দোনেশিয়া প্রভৃতি দেশের বৌদ্ধরা এখানে ধর্মজ্ঞান অর্জন করতে
+আসতেন। খ্রিস্টীয় দশম শতকে বিহারের আচার্য ছিলে অতীশ দীপঙ্কর শ্রীজ্ঞান।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৯৮৫ খ্রিস্টাব্দে ইউনেস্কো এটিকে বিশ্ব ঐতিহ্যবাহী স্থানের স্বীকৃতি প্রদান করে।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="অবস্থান ও আয়তন"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="পুন্ড্রবর্ধনের রাজধানী পুন্ড্রনগর (বর্তমান মহাস্থান) এবং অপর শহর কোটিবর্ষ (বর্তমান বানগড়)-এর মাঝামাঝি স্থানে অবস্থিত ছিল সোমপুর মহাবিহার। এর ধ্বংসাবশেষটি বর্তমান বাংলাদেশের
+ বৃহত্তর রাজশাহীর অন্তর্গত নওগাঁ জেলার বদলগাছি উপজেলার পাহাড়পুর গ্রামে অবস্থিত। অপরদিকে জয়পুরহাট জেলার জামালগঞ্জ রেলস্টেশন থেকে এর দূরত্ব পশ্চিমদিকে মাত্র ৫
+ কিলোমিটার। এর ভৌগোলিক অবস্থান ২৫°০´ উত্তর থেকে ২৫°১৫´ উত্তর অক্ষাংশ এবং ৮৮°৫০´ পূর্ব থেকে ৮৯°১০´ পূর্ব দ্রাঘিমাংশ পর্যন্ত। গ্রামের মধ্যে প্রায় ০.১০ বর্গ
+ কিলোমিটার (১০ হেক্টর) অঞ্চল জুড়ে এই পুরাকীর্তিটি অবস্থিত। প্রত্নতাত্ত্বিক এই নিদর্শনটির ভূমি পরিকল্পনা চতুর্ভূজ আকৃতির।[১] এটি বাংলাদেশের উত্তরবঙ্গের প্লাবন সমভূমিতে অবস্থিত,
+ প্লাইস্টোসীন যুগের বরেন্দ্র নামক অনুচ্চ এলাকার অন্তর্ভুক্ত। মাটিতে লৌহজাত পদার্থের উপস্থিতির কারণে মাটি লালচে। অবশ্য বর্তমানে এ মাটি অধিকাংশ স্থানে পললের নিচে ঢাকা পড়েছে।
+ পার্শ্ববর্তী সমতল ভূমি থেকে প্রায় ৩০.৩০ মিটার উঁচুতে অবস্থিত পাহাড়সদৃশ স্থাপনা হিসেবে এটি টিকে রয়েছে। স্থানীয় লোকজন একে গোপাল চিতার পাহাড় আখ্যায়িত করত; সেই থেকেই
+ এর নাম হয়েছে পাহাড়পুর, যদিও এর প্রকৃত নাম সোমপুর বিহার।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="আবিষ্কারের প্রেক্ষাপট"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ভারতীয় উপমহাদেশে ইংরেজদের আগমনের পর তাঁরা সকল স্থানে জরিপ কাজ চালানো শুরু করেন। পূর্ব ভারতে জরিপ কাজ পরিচালনা করেন বুকানন হ্যামিল্টন; যিনি ১৮০৭ থেকে ১৮১২
+ খ্রিস্টাব্দের মধ্যে কোনো এক সময়ে পাহাড়পুর পরিদর্শন করেন। এটিই ছিল পাহাড়পুরে প্রথম প্রত্নতাত্ত্বিক পরিদর্শন। এরপর এই প্রত্নস্থল পরিদর্শনে আসেন ওয়েস্টম্যাকট। এঁরা দেশে ফিরে
+ তাঁদের অভিজ্ঞতা সম্বলিত বিবরণ পত্র-পত্রিকায় প্রকাশ করেন। এরই সূত্র ধরে ১৮৭৯ খ্রিস্টাব্দে আলেকজান্ডার কানিংহাম এই ঐতিহাসিক স্থানটি পরিদর্শন করেন। পরিদর্শনের পর এই
+ জমিটি ব্যাপক হারে খনন করার প্রতি তিনি আগ্রহ দেখান। কিন্তু জমির মালিক বলিহারের তদানীন্তন জমিদার তাঁকে এই কাজে বাধা দেন। তাই তিনি বিহার এলাকার সামান্য অংশে এবং
+ পুরাকীর্তির কেন্দ্রীয় ঢিবির শীর্ষভাগের সামান্য অংশে খনন কাজ চালিয়েই অব্যাহতি দেন। এই খননকার্যের সময় কেন্দ্রীয় ঢিবির অংশে চারপাশে উদ্‌গত অংশবিশিষ্ট একটি বর্গাকার ইমারত
+ আবিষ্কার করেন যার দৈর্ঘ্য ছিল ২২ ফুট। অবশেষে ১৯০৪ খ্রিস্টাব্দের প্রত্নতাত্ত্বিক আইনের আওতায় এই স্থান ১৯১৯ খ্রিস্টাব্দে সংরক্ষিত পুরাকীর্তি হিসাবে ঘোষিত হয়"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

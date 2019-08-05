@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sadarghat">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সদরঘাট"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সদরঘাট  বুড়িগঙ্গা নদী থেকে ঢাকা শহরে প্রবেশ পথে একটি বিরাট ঘাট। এটি আহসান মঞ্জিলের সম্মুখভাগের একটু বাম দিকে অবস্থিত। সদরঘাট বাকল্যান্ড বাঁধের কেন্দ্রবিন্দু। মূলত
+অন্যান্য স্থান থেকে ঢাকামুখী নৌকা, লঞ্চ এবং এমনকি ছোট ও মাঝারি জাহাজ নোঙর করার জন্য এটি নির্মিত হয়েছিল। নদীগর্ভের প্রবেশমুখ অগভীর হয়ে যাওয়ায় এবং অভ্যন্তরীণ
+জলপথসমূহের পরিবহণ ক্ষমতা হ্রাস পাওয়ার কারণে এখন আর এখানে বড় আকারের জলযান ভিড়তে পারে না।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৮২০-এর দিকে সদরঘাটের কাছে পূর্বদিকে ম্যাজিস্ট্রেট ও কালেক্টর-এর অফিসসহ অন্যান্য বহু অফিস পর্যায়ক্রমে স্থানান্তরিত হয় এবং এর উত্তর দিকের এলাকাসমূহ নতুন নগরকেন্দ্র
+হিসেবে গড়ে ওঠে। এখানে মাত্র দুটি প্রধান রাস্তা ছিল, একটি পশ্চিম থেকে পূর্ব দিকে এবং অপরটি দক্ষিণ থেকে উত্তর দিকে। রাস্তা দুটি সদরঘাটের কাছাকাছি সমকোণে মিলিত হয়েছে।
+অলি-গলির অনেক এলোপাতাড়ি শাখা এখান থেকে শহরের বিভিন্ন মহল্লায় চলে গেছে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="আজকাল প্রধানত দেশের দক্ষিণাঞ্চলের জেলাসমূহের সঙ্গে যোগাযোগের উদ্দেশ্যে শত শত নৌকা ও লঞ্চ আসা-যাওয়ার জন্য সদরঘাট ব্যবহূত হয়। মাল বহনকারী বার্জগুলিও সদরঘাটকে
+মাল ওঠানো-নামানোর কেন্দ্র হিসেবে ব্যবহার করে। সরদঘাট ফল-মূল, শাকসবজি ও বিবিধ সামগ্রীর একটি বৃহৎ দৈনিক বাজারে পরিণত হয়েছে। এখানে খুলনার মতো দূরবর্তী স্থানে স্টিমারে
+যাত্রী পরিবহণের জন্য একটি টার্মিনালও আছে। নদীর সমান্তরালে রাস্তা দিয়ে সদরঘাট-এর সাথে ঢাকার বহু স্থান সংযুক্ত এবং রাস্তার উভয় পাশে অসংখ্য খুচরা ও পাইকারি দোকানপাট দেখতে
+পাওয়া যায়।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

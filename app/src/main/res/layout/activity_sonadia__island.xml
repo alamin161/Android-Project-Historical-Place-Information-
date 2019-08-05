@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sonadia_Island">
+
+    <ScrollView
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+            android:id="@+id/sonadia1"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সোনাদিয়া দ্বীপ, মহেশখালী"/>
+
+            <TextView
+                android:id="@+id/sonadia2"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কক্সবাজার শহর থেকে প্রায় ৭ কিলোমিটার উত্তর-পশ্চিমে সোনাদিয়া দ্বীপটি অবস্থিত। মহেশখালীর দক্ষিণ-পশ্চিমে বঙ্গোপসাগরের কুল ঘেঁষে সোনাদিয়ার অবস্থান। তাই তো
+সোনাদিয়া দ্বীপকে নিয়ে দেশে-বিদেশে বর্তমানে এত আলোচনা। সোনাদিয়া দ্বীপে গভীর সমুদ্র বন্দর বিনির্মাণের জন্য সরকার প্রয়োজনীয় পদক্ষেপ গ্রহণ করে যাচ্ছে। চীনসহ বিভিন্ন
+রাষ্ট্র এ সমুদ্র বন্দর নির্মাণের আর্থিক সহায়তা প্রদান করার আগ্রহ দেখিয়ে যাচ্ছে। সোনাদিয়া দ্বীপটি মহেশখালীর কুতুবজোম ইউনিয়নে অবস্থিত। "/>
+
+            <TextView
+                android:id="@+id/sonadia3"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ঘটিভাঙ্গা নামে একটি খাল মহেশখালী দ্বীপের সাথে একসময় সোনাদিয়াকে বিচ্ছিন্ন রাখলেও খালের ওপর সেতু নির্মিত হওয়ায় যোগাযোগ ব্যবস্থা সহজ হয়েছে। সদাশয় সরকার
+মাঝিমাল্লাদের কথা বিবেচনা করে এবং সমুদ্রে নৌ ডাকাতি রোধকল্পে ঘটিভাঙ্গায় একটি নৌ থানা স্থাপনের বিষয়টি স্বরাষ্ট্র মন্ত্রণালয়ে বিবেচনাধীন রয়েছে। দ্বীপটিকে সরকার প্রতিবেশ
+সংকটাপন্ন এলাকা হিসেবে ঘোষণা দিয়ে রাখছে। এ দ্বীপকে যাযাবর পাখিদের জন্য ভূ-স্বর্গ বলা যায়। দ্বীপের পশ্চিম দিকে বালুকাময় সমুদ্র সৈকত রয়েছে যেখানে ঝিনুক ও মুক্তা পাওয়া
+যায়। শুষ্ক মৌসুমে এখানে প্রচুর মাছ শুকানো  হয়  যা দেশে বিভিন্ন অঞ্চলে বিক্রি করা  হয়।  জীব বৈচিত্রের অপূর সমাহার সোনাদিয়া দ্বীপ ম্যানগ্রোভ ফরেস্ট বিদ্যমান থাকার কথা
+থাকলেও এলাকা প্রভাবশালী ভূমি দস্যুদের কারণে চিংড়ি খামার তৈরীর লক্ষ্যে প্যারাবন ধ্বংসসহ হাজার হাজার রোপিত গাছ কর্তনের কারণে মারাত্মক পরিবেশ বিপর্যয়ের সম্মুখীন বলে
+পরিবেশবাদীরা সর্বদা প্রতিবাদ মুখর থাকে।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

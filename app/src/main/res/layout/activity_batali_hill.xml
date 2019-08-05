@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Batali_hill">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাটালি পাহাড়"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাটালি পাহাড় যা বাটালি হিল নামেও পরিচিত, চট্টগ্রামের টাইগার পাস এলাকায় অবস্থিত চট্টগ্রামের শহরের সর্বাধিক উঁচু পাহাড়। এর চুড়া থেকে বঙ্গোপসাগর এবং চট্টগ্রাম শহরের বড় অংশ
+পরিষ্কারভাবে দেখা যায়।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="দ্বিতীয় বিশ্বযুদ্ধের সময়ে বাটালি পাহাড়ের চুড়ায় বিমান বিধ্বংসী কামান স্থাপন করা হয়েছিল। শহরকে উপর থেকে দেখার জন্য এটি একটি উত্তম স্থান।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

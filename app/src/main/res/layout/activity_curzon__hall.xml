@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Curzon_Hall">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কার্জন হল  ভারতের ভাইসরয় লর্ড কার্জনের নামানুসারে এ ভবনটি টাউন হল হিসেবে নির্মিত হয়েছিল। ১৯০৪ সালে  লর্ড কার্জন এর ভিত্তিপ্রস্তর স্থাপন করেন। পরের বছরই বাংলাকে বিভক্ত
+করা হয় এবং ঢাকা হয় নতুন প্রদেশ পূর্ববঙ্গ ও আসামের রাজধানী। ১৯১১ সালে বঙ্গভঙ্গ রদ হলে এটি  ঢাকা কলেজ ভবন হিসেবে ব্যবহূত হতে থাকে। পরে ১৯২১ সালে  ঢাকা
+বিশ্ববিদ্যালয় প্রতিষ্ঠিত হলে এ ভবন বিশ্ববিদ্যালয়ের বিজ্ঞান বিভাগের অংশ হিসেবে ব্যবহূত হতে শুরু করে এবং এখনও এভাবেই চলছে। অত্যন্ত যত্নসহকারে গড়ে তোলা প্রশস্ত
+বাগানে নির্মিত ইটের এ দ্বিতল ভবনে রয়েছে একটি বিশাল কেন্দ্রীয় হল। সে সাথে পূর্ব ও পশ্চিম উভয় পার্শ্বে রয়েছে সংযোজিত কাঠামো যা অসংখ্য কক্ষ সমৃদ্ধ এবং চারপাশ দিয়ে বারান্দা ঘেরা।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ঢাকার অন্যতম শ্রেষ্ঠ স্থাপত্য হিসেবে বিবেচিত এ ভবনটিতে সংযোজিত হয়েছে ইউরোপ ও মুগল স্থাপত্য রীতির দৃষ্টিনন্দন সংমিশ্রণ। এটি বিশেষ করে পরিলক্ষিত হয় অভিক্ষিপ্ত উত্তর
+দিকের সম্মুখভাগের অশ্বখুরাকৃতি ও খাঁজকাটা খিলানের মাঝে। ঐতিহ্যিক শিল্পের সাথে আধুনিক কারিগরিবিদ্যার মিশ্রিত রীতি এবং মুগল কাঠামোর আনুকূল্য যা খিলান ও গম্বুজে বিধৃত,
+সম্ভবত পাশ্চাত্য থেকে ইসলামিক স্থাপত্য জগতে প্রবেশ করেছে। ১৮৫৭ সালের সিপাহি বিপ্লবের পর প্রচ্ছন্ন ক্ষমতা পরিহার করে ভারতকে সরাসরি ব্রিটিশ শাসনাধীনে নেওয়ার পর মুগল
+যোগসূত্র রক্ষা করে এর বৈধতা প্রদানের প্রয়াস এতে পরিলক্ষিত হয়।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="লাল রঙ ব্যবহূত হয়েছে মুগল আমলের লাল বেলেপাথরের পরিবর্তে; আর অলংকৃত বন্ধনী, গভীর ছাঁইচ (eaves), গম্বুজ বিশিষ্ট প্যাভিলিয়ন, বিশেষকরে মাঝের অংশগুলি ১৫৭০
+থেকে ১৫৮৫ খ্রিস্টাব্দ পর্যন্ত সম্রাট আকবরের রাজধানী প্রাসাদ সমৃদ্ধ নগরদুর্গ ফতেহপুর সিক্রির ছোট কিন্তু সুপরিচিত দীউয়ান-ই-খাসের কথা স্মরণ করিয়ে দেয়। উভয় নগরই নতুন
+রাজধানী ছিল। শুধু তাই নয়, ইচ্ছাকৃতভাবে ফতেহপুর সিক্রি রীতি গ্রহণের পেছনে কারণ হিসেবে ব্যাখ্যা করা যায় যে, ব্রিটিশরা আকবরকেই সবচেয়ে বিজ্ঞ ও সর্বাধিক সহিষ্ণু মুগল সম্রাট
+হিসেবে গণ্য করত এবং তারা দেখাতে চাইত যে ভারতে তাদেরও ভূমিকা অনুরূপ।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ভাষা আন্দোলন এর ইতিহাসে কার্জন হল বিশেষ গুরুত্বপূর্ণ স্থান দখল করে আছে। ১৯৪৮ সালে এখানেই ঢাকা বিশ্ববিদ্যালয়ের ছাত্রগণ তদানীন্তন পাকিস্তানের রাষ্ট্রভাষা হবে উর্দু
+এতদসংক্রান্ত জিন্নাহর ঘোষণার প্রতি প্রথম প্রতিবাদ জানিয়েছিল।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

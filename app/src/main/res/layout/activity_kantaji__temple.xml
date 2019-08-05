@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Kantaji_Temple">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কান্তজীউ মন্দির"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কান্তজীউ মন্দির বা কান্তজির মন্দির বা কান্তনগর মন্দির বাংলাদেশের দিনাজপুরে অবস্থিত একটি প্রাচীন মন্দির। এটি নবরত্ন মন্দির নামেও পরিচিত কারণ তিনতলাবিশিষ্ট এই মন্দিরের নয়টি
+চূড়া বা রত্ন ছিলো। কান্তজীউ মন্দির ১৮ শতকে নির্মিত একটি চমৎকার ধর্মীয় স্থাপনা। মন্দিরটি হিন্দু ধর্মের কান্ত বা কৃষ্ণের মন্দির হিসেবে পরিচিত যা লৌকিক রাধা-কৃষ্ণের ধর্মীয় প্রথা হিসেবে
+বাংলায় প্রচলিত। ধারণা করা হয়, মহারাজা সুমিত ধর শান্ত এখানেই জন্ম গ্রহণ করেছিলেন। ২০১৭ সালের কলকাতা বইমেলায় এই মন্দিরের আদলে বাংলাদেশ প্যাভিলিয়ন করা হয়।
+ ১৮৯৭ সালের ভূমিকম্পে এই মন্দির ধ্বংস হওয়ার আগে Ravenshaw, John Henry এর ১৮৭১ সালে তোলা ছবিতে মন্দিরের নয়টি রত্ন বর্তমান।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="অবস্থান"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="দিনাজপুর শহর থেকে ২০ কিলোমিটার উত্তরে এবং কাহারোল উপজেলা সদর থেকে সাত কিলোমিটার দক্ষিণ-পূর্বে সুন্দরপুর ইউনিয়নে, দিনাজপুর-তেঁতুলিয়া মহাসড়কের পশ্চিমে ঢেঁপা
+নদীর তীরে অবস্থিত এই প্রাচীন মন্দির।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মন্দিরের উত্তর দিকের ভিত্তিবেদীর শিলালিপি থেকে জানা যায়, তৎকালীন দিনাজপুরের মহারাজা জমিদার প্রাণনাথ রায় তাঁর শেষ বয়সে মন্দিরের নির্মাণ কাজ শুরু করেন। ১৭২২ খ্রিস্টাব্দে
+তাঁর মৃত্যুর পরে তাঁর শেষ ইচ্ছা অনুযায়ী তাঁর পোষ্যপুত্র মহারাজা রামনাথ রায় ১৭৫২ খ্রিস্টাব্দে মন্দিরটির নির্মাণ কাজ শেষ করেন। শুরুতে মন্দিরের চূড়ার উচ্চতা ছিলো ৭০ ফুট। ১৮৯৭
+খ্রিস্টাব্দে মন্দিরটি ভূমিকম্পের কবলে পড়লে এর চূড়াগুলো ভেঙে যায়। মহারাজা গিরিজানাথ মন্দিরের ব্যাপক সংস্কার করলেও মন্দিরের চূড়াগুলো আর সংস্কার করা হয়নি।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ভাস্কর্য"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মন্দিরের বাইরের দেয়াল জুড়ে পোড়ামাটির ফলকে লেখা রয়েছে রামায়ণ, মহাভারত এবং বিভিন্ন পৌরাণিক কাহিনী। পুরো মন্দিরে প্রায় ১৫,০০০-এর মতো টেরাকোটা টালি রয়েছে। উপরের
+দিকে তিন ধাপে উঠে গেছে মন্দিরটি। মন্দিরের চারদিকের সবগুলো খিলান দিয়েই ভেতরের দেবমূর্তি দেখা যায়। মন্দির প্রাঙ্গণ আয়তাকার হলেও, পাথরের ভিত্তির উপরে দাঁড়ানো ৫০ফুট
+উচ্চতার মন্দিরটি বর্গাকার। নিচতলার সব প্রবেশপথে বহু খাঁজযুক্ত খিলান রয়েছে। দুটো ইটের স্তম্ভ দিয়ে খিলানগুলো আলাদা করা হয়েছে, স্তম্ভ দুটো খুবই সুন্দর এবং সমৃদ্ধ অলংকরণযুক্ত।
+মন্দিরের পশ্চিম দিকের দ্বিতীয় বারান্দা থেকে সিঁড়ি উপরের দিকে উঠে গেছে। মন্দিরের নিচতলায় ২১টি এবং দ্বিতীয় তলায় ২৭টি দরজা-খিলান রয়েছে, তবে তৃতীয় তলায় রয়েছে
+মাত্র ৩টি করে।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

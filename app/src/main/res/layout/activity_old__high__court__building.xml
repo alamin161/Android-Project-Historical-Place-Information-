@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Old_High_Court_Building">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="হাইকোর্ট ভবন, পুরাতন"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="হাইকোর্ট ভবন, পুরাতন ঔপনিবেশিক আমলে ঢাকায় নির্মিত একটি ভবন। এটি রমনা গ্রীনের প্রান্ত ঘেঁষে সুদৃশ্য কার্জন হলের বিপরীতে কাজী নজরুল ইসলাম অ্যাভিনিউতে অবস্থিত।
+বঙ্গভঙ্গ-এর (১৯০৫) পর নব প্রতিষ্ঠিত পূর্ববাংলা ও আসাম প্রদেশের গভর্নরের সরকারি বাসভবন হিসেবে জমকালো দ্বিতল ভবনের পরিকল্পনা করা হয়। ভবনটির নির্মাণ কাজ সমাপ্তির
+পর ভারত সরকারের নিযুক্ত স্থপতি মনে করেন যে, এটি গভর্নর হাউস হিসেবে বেমানান এবং সেকারণে এটি খালি পড়ে থাকে। পরবর্তীকালে এটিকে ঢাকা উচ্চ মাধ্যমিক কলেজ ভবন করা
+হয় এবং আরও পরে এটিকে পূর্ব পাকিস্তানের হাইকোর্টে রূপান্তর করা হয়। পাশে আর একটি ভবন (যা বর্তমানে বাংলাদেশ সুপ্রিম কোর্ট ভবন) নির্মাণ করে সেখানে হাইকোর্ট স্থানান্তর করা
+হয় (১৯৬৭)। তখন থেকে ভবনটিকে সরকারি বিভিন্ন দপ্তরের অফিস হিসেবে ব্যবহার করা হচ্ছে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ভবনটি বিভিন্ন আকারের সারি-বাঁধা কক্ষসমূহসহ বিশাল চতুর্ভুজাকার বেষ্টনীর দ্বারা পরিবেষ্টিত। কক্ষগুলি সামঞ্জস্যরূপে স্থাপিত চারটি অংশে বিন্যস্ত। সারিবদ্ধ ভবনটির অঙ্গনে
+প্রবেশের জন্য দক্ষিণ দিকে রয়েছে তিন খিলানবিশিষ্ট একটি স্মারক প্রবেশদ্বার।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ঢালুকৃত তিনটি স্তরে উত্থিত এর সম্মুখভাগ কোরিনথিয়ান (Corinthian) স্তম্ভের উপর স্থাপিত। ত্রিভুজাকৃতির ঝুলন্ত ছাদের নিচে স্থাপিত প্রবেশপথসহ ভবনটিতে ইউরোপীয়
+রেনেসাঁ রীতি লক্ষ্য করা যায়। একটি বৃত্তের উপর সরু থাম এবং সংযুক্ত স্তম্ভের উপর স্থাপিত একটি শোভন গম্বুজ ভবনটির শোভা বৃদ্ধি করেছে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="সাদা মার্বেলে শোভিত একটি প্রশস্ত সিড়ি বর্গাকার প্রবেশকক্ষ থেকে বারান্দার পেছন দিক দিয়ে উপর তলায় উঠে গেছে। উত্তর অংশের মধ্যবর্তী স্থানে নির্মিত অন্য সিঁড়িটিও চতুর্ভুজের
+অভ্যন্তরে দুই কোণায় অবস্থিত দুটি সম্পূরক প্যাঁচানো সিঁড়ির পাশ দিয়ে উপর তলায় উঠে গেছে। আয়তাকার ভবনটির চারটি বাহুতে দুই তলায় বিভিন্ন আকারের পঞ্চাশটিরও অধিক কক্ষ
+রয়েছে। এগুলির মধ্যে রয়েছে বৈঠকখানা, খাবার ঘর, শয়ন কক্ষ, ড্রেসিং ও প্রসাধন কক্ষ, বাতিঘর, গুদামঘর, ভাঁড়ার ঘর ইত্যাদি। প্রত্যেক পার্শ্বকাঠামোর কেন্দ্রে রয়েছে একটি বৃত্তাকার
+বর্ধিত অংশ। পূর্ব দিকের পার্শ্বকাঠামোতে বারান্দার সম্মুখে আছে একটি নাচঘর (১৮.৩০ মি  ১৬.৭৬ মি)। পূর্বদিকের নাচঘর ব্যতীত সমগ্র নিচ তলার মেঝে সাদা মার্বেল পাথরে শোভিত।
+নাচঘরের মেঝেতে বসানো হয়েছিল মসৃণ সেগুন কাঠ।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

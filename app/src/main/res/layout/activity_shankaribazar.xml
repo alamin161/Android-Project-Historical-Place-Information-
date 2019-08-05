@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Shankaribazar">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="শাঁখারিবাজার"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="শাঁখারিবাজার বাংলাদেশের রাজধানী ঢাকা শহরের পুরানো ঢাকার একটি ঐতিহাসিক এলাকা। ঢাকা বিখ্যাত ছিল শাঁখারীদের তৈরী শাঁখার জন্য। এটি বুড়িগঙ্গা নদীর কাছে ইসলামপুর রোড
+ও নওয়াবপুর রোডের সংযোগস্থলে অবস্থিত। এই এলাকায় বসবাসকারী শাঁখারীদের নামানুসারেই এলাকাটির নামকরণ করা হয়েছে। শাঁখারীরা বংশগত ভাবে শাঁখা তৈরির কাজে নিয়োজিত।
+ঢাকার শাঁখারীদের আবাসিক এলাকা ছিল শাঁখারী বাজার, যা এখনও বহন করছে সেই ঐতিহ্য।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জেমস ওয়াইজের ১৮৮৩ খ্রিস্টাব্দের বর্ণনা অনুসারে ঢাকায় ঐ সময় ৮৩৫ জন শাঁখারী বসবাস করতেন। ধারণা করা হয় যে, বল্লাল সেনের শাসনামলে শাঁখারীরা পূর্ববঙ্গে আগমন করে।
+তখন তারা বিক্রমপুর এ একটি বাজার - শাঁখারী বাজার এ অবস্থান করতেন। সতের শতকে মোগল শাসনামলে খাঁজনা বিহীন লাখেরাজ জমি প্রদান করে শাঁখারীদেরকে ঢাকা শহরে নিয়ে
+আসা হয়। শাঁখারীরা ঢাকায় এসে যে অঞ্চলে বসবাস শুরু করেছিল তা আমাদের কাছে বর্তমানে পরিচিত শাঁখারী বাজার নামে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সপ্তদশ শতকের মোগল সুবেদার ইসলাম খাঁর সেনাপতি মির্জা নাথান এর লেখায় শাঁখারিবাজারের উল্লেখ রয়েছে। ১৯৭১ সালের ২৫ মার্চ হানাদার বাহিনী শাঁখারী বাজার গুরিয়ে দিয়েছিল।
+স্বাধীনতার পর শাঁখারীরা আবার এসে বসবাস শুরু করে সেই জায়গায়।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="স্থাপত্য ও অন্যান্য উল্লেখযোগ্য বৈশিষ্ট্য"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="শাঁখারীদের বাসগৃহ ও এর স্থাপত্য স্বতত্র ধরনের। জেমস ওয়াইজ এর কারণ দর্শন করেছেন এভাবে যে, শাঁখারীদের যে লাখেরাজ জমি দেয়া হয়েছিল তা ছিল আয়তনে অনেক ক্ষুদ্র। সেই
+আয়তন মেনেই নির্মিত হত বাসগৃহ। বাসগৃহের সামনের মূল ফটক হত ছয় ফিটের মত। এরপর বিশ-ত্রিশ ফিটের মত লম্বা করিডোর চলে যেত ভিতরে। এরপর দালানগুলো পশ্চাতদিকে
+বিশ গজ মত প্রসারিত।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাসগৃহ গুলো অধিকাংশই চারতলা। দুইটি বাসগৃহের মধ্যবর্তী দেয়াল লাগোয়া, দরজা বা জানালা বিহীন এবং মধ্যবর্তী কোন ফাঁকা জায়গা নেই। একতলার উপরের মধ্যবর্তী স্থান ছোট প্রঙ্গনের
+ন্যায় খোলা রাখা হয়।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

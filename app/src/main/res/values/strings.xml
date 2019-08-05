@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">বিডি স্থান তথ্য</string>
+
+    <string-array name="name_list">
+        <item>প্রত্নতাত্ত্বিক নিদর্শনসমূহ</item>
+        <item>সমুদ্র সৈকত</item>
+        <item>বন ও জলাবন</item>
+        <item>ঐতিহাসিক স্থানসমূহ</item>
+        <item>পাহাড় ও দ্বীপ</item>
+        <item>অন্যান্য আকর্ষনীয় স্থানসমূহ</item>
+        <item>ধর্মীয় স্থানসমূহ</item>
+    </string-array>
+
+    <string-array name="archaeological_patterns">
+        <item>লালবাগ দুর্গ</item>
+        <item>মুঘল ঈদগাহ্ (ধানমন্ডি ঈদগাহ্)</item>
+        <item>আহসান মঞ্জিল (গোলাপী প্রাসাদ)</item>
+        <item>সোনারগাঁও - বাংলার প্রাচীন রাজধানী</item>
+        <item>উয়ারী-বটেশ্বর</item>
+        <item>ময়নামতি</item>
+        <item>পাহাড়পুর বৌদ্ধ বিহার</item>
+        <item>মহাস্থানগড়</item>
+        <item>কান্তজীউ মন্দির</item>
+        <item>ষাট গম্বুজ মসজিদ</item>
+    </string-array>
+
+    <string-array name="sea_beach">
+        <item>কটকা</item>
+        <item>কুয়াকাটা</item>
+        <item>সেন্ট-মার্টিন-দ্বীপ</item>
+        <item>টেকনাফ</item>
+        <item>কক্সবাজার</item>
+        <item>পারকী</item>
+        <item>পতেঙ্গা সমুদ্র সৈকত</item>
+    </string-array>
+
+    <string-array name="Forests_and_zoos">
+        <item> সুন্দরবন</item>
+        <item> রাতারগুল-জলাবন</item>
+    </string-array>
+
+    <string-array name="Historical_places">
+        <item>জাতির-পিতার-সমাধিসৌধ</item>
+        <item>জাতীয়-স্মৃতিসৌধ</item>
+        <item>কেন্দ্রীয়-শহীদ-মিনার</item>
+        <item>শহীদ-বুদ্ধিজীবী-স্মৃতিসৌধ</item>
+        <item>জাতীয়-কবির-সমাধিসৌধ</item>
+        <item> কার্জন-হল</item>
+        <item>বলধা-গার্ডেন</item>
+        <item>সোহরাওয়ার্দী-উদ্যান</item>
+        <item>পুরাতন-হাইকোর্ট-ভবন</item>
+        <item>বাহাদুর-শাহ্-পার্ক</item>
+        <item>কদীঘাপতিয়া-রাজবাড়ি</item>
+        <item>দ্বিতীয়-বিশ্বযুদ্ধের-কবরস্থান</item>
+        <item>শিলাইদহ-কুঠিবাড়ী</item>
+        <item> সাগরদাড়ি</item>
+        <item>মুজিবনগর-স্মৃতিসৌধ</item>
+        <item>ত্রিশাল</item>
+        <item>গান্ধী-আশ্রম</item>
+    </string-array>
+
+    <string-array name="other_interesting_places">
+        <item>জাতীয়-সংসদ-ভবন</item>
+        <item>বঙ্গভবন</item>
+        <item>শাঁখারীবাজার</item>
+        <item>সদরঘাট</item>
+        <item> রমনা-পার্ক</item>
+        <item>জাতীয়-উদ্ভিদ-উদ্যান</item>
+        <item>জাতীয়-চিড়িয়াখানা</item>
+        <item>সজাতীয়-উদ্যান</item>
+        <item>বাটালী-পাহাড়</item>
+        <item>জেলা-প্রশাসকের-পাহাড়</item>
+        <item>রাজশাহী</item>
+        <item> যমুনা-ব্রীজ</item>
+        <item> মাধবকুন্ডু</item>
+        <item>জাফলং</item>
+    </string-array>
+
+    <string-array name="hills_and_islands">
+        <item>রাঙামাটি---হ্রদ-জেলা</item>
+        <item>কাপ্তাই---হ্রদ-শহর</item>
+        <item>বান্দরবান---বাংলাদেশের-ছাদ</item>
+        <item>খাগড়াছড়ি---পাহাড়ের-শীর্ষের-শহর</item>
+        <item>ময়মনসিংহ</item>
+        <item>সিলেট</item>
+        <item> মহেশখালী-দ্বীপ</item>
+        <item>সোনাদিয়া-দ্বীপ</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Rangamati">
+
+    <ScrollView
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/rangamati1"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="অবস্থান ও সীমানা"/>
+
+            <TextView
+                android:id="@+id/rangamati2"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাংলাদেশের দক্ষিণ-পূর্বাংশে ২২°২৭´ থেকে ২৩°৪৪´ উত্তর অক্ষাংশ এবং ৯১°৫৬´ থেকে ৯২°৩৩´ পূর্ব দ্রাঘিমাংশ জুড়ে রাঙ্গামাটি জেলার অবস্থান।[২] রাজধানী ঢাকা থেকে
+এ জেলার দূরত্ব প্রায় ৩০৮ কিলোমিটার এবং চট্টগ্রাম বিভাগীয় সদর থেকে প্রায় ৭০ কিলোমিটার। এ জেলার দক্ষিণে বান্দরবান জেলা, পশ্চিমে চট্টগ্রাম জেলা ও খাগড়াছড়ি জেলা, উত্তরে
+ভারতের ত্রিপুরা প্রদেশ এবং পূর্বে ভারতের মিজোরাম প্রদেশ ও মায়ানমারের চিন প্রদেশ অবস্থিত। এটি বাংলাদেশের একমাত্র জেলা, যার সাথে ভারত ও মায়ানমার দুটি দেশেরই আন্তর্জাতিক
+সীমা রয়েছে।"/>
+
+            <TextView
+                android:id="@+id/rangamati3"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="প্রতিষ্ঠাকাল"/>
+
+            <TextView
+                android:id="@+id/rangamati4"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৮৬০ সালের ২০ জুন রাঙ্গামাটি, খাগড়াছড়ি ও বান্দরবান- এই তিন পার্বত্য অঞ্চলকে নিয়ে পার্বত্য চট্টগ্রাম জেলা সৃষ্টি হয়। জেলা সৃষ্টির পূর্বে এর নাম ছিল কার্পাস মহল। পার্বত্য চট্টগ্রাম
+জেলা থেকে ১৯৮১ সালে বান্দরবান এবং ১৯৮৩ সালে খাগড়াছড়ি পৃথক জেলা সৃষ্টি করা হলে পার্বত্য চট্টগ্রাম জেলার মূল অংশ রাঙ্গামাটি পার্বত্য জেলা হিসাবে আত্মপ্রকাশ করে। প্রথাগত
+রাজস্ব আদায় ব্যবস্থায় রাঙ্গামাটি পার্বত্য জেলায় রয়েছে চাকমা সার্কেল চীফ। চাকমা রাজা হলেন নিয়মতান্ত্রিক চাকমা সার্কেল চীফ।"/>
+
+            <TextView
+                android:id="@+id/rangamati5"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+
+            <TextView
+                android:id="@+id/rangamati6"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মুসলিম বিজয়ের পূর্বে রাঙ্গামাটি ত্রিপুরা ও আরাকানের রাজাদের যুদ্ধক্ষেত্র ছিল। ১৬৬৬ সালে এই অঞ্চল মুঘলদের দখলে আসে। ১৭৬০-৬১ সালে এটি ইংরেজ ইস্ট ইন্ডিয়া কোম্পানির
+কাছে ইজারা দেওয়া হয়। ১৭৩৭ সালে শের মোস্তা খান নামক একজন গোত্র প্রধান মুঘলদের নিকট এখানে আশ্রয় পান। সেই থেকে চাকমারা ও পরবর্তীতে অন্য আদিবাসীরা এই অঞ্চলে
+বসতি স্থাপন করে।"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

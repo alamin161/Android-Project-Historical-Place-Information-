@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sylhet">
+
+    <ScrollView
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/sylhet1"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ভৌগোলিক অবস্থান"/>
+
+            <TextView
+                android:id="@+id/sylhet2"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সিলেট বিভাগের পূর্বে ভারতের আসাম, উত্তরে মেঘালয় রাজ্য (খাসিয়া ও জয়ন্তীয়া পাহাড়), দক্ষিণে ত্রিপুরা রাজ্য, আর পশ্চিমে বাংলাদেশের ঢাকা বিভাগ। সিলেটের আঞ্চলিক ইতিহাস
+গ্রন্থ অনুসারে এই অঞ্চলের প্রাচীন সীমানার যে উল্লেখ পাওয়া যায় সে অনুসারে তৎকালীন শ্রীহট্টমণ্ডল বর্তমান সিলেট বিভাগের চেয়ে আয়তনে অনেক বড় ছিল, এমনকি বাংলাদেশের
+বর্তমান সরাইল বা সতরখণ্ডল (ব্রাহ্মণবাড়িয়া জেলার অন্তর্গত), জোয়ানশাহী (বৃহত্তর ময়মনসিংহ জেলার অন্তর্গত), ভারতের ত্রিপুরা রাজ্য, করিমগঞ্জ, কাছাড় জেলা ও বদরপুরের
+অনেকাংশ শ্রীহট্টের অন্তর্ভুক্ত ছিল। প্রাচীন বৈদিক গ্রন্থ কামাখ্যা তন্ত্র অনুযায়ী প্রাচীন কামরুপ রাজ্যের দক্ষিণ-পশ্চিম সীমাই প্রাচীন শ্রীহট্ট ছিল অর্থাৎ শ্রীহট্ট ছিল কামরূপ
+রাজ্যের অন্তর্গত। যোগিনী তন্ত্রে শ্রীহট্টের সীমার বিবরণ এরকম:"/>
+
+            <TextView
+                android:id="@+id/sylhet3"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="পূর্ব্বে স্বর্ণ নদীশ্চৈব দক্ষিণে চন্দ্রশেখর
+লোহিত পশ্চিমে ভাগে উত্তরেচ নীলাচল
+এতন্মধ্যে মহাদেব শ্রীহট্ট নামো নামতা ।"/>
+
+            <TextView
+                android:id="@+id/sylhet4"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="অতপর খ্রিস্টীয় সপ্তম শতাব্দীর পরবর্তি সময়ে এই অঞ্চলের ভৌগোলিক রুপরেখার বিভিন্ন পরিবর্তন ঘটে। অষ্টম শতাব্দীর মধ্যভাগে সিলেট বিভাগের দক্ষিণ-পূর্বাঞ্চলের কিছু অংশ
+ত্রিপুরা রাজ্যের আধিকার্ভুক্ত এবং দক্ষিণ-পশ্চিমের অনেক অংশ হারিকেল রাজ্যের অন্তর্ভুক্ত হয়। অবশিষ্টাংশে শ্রীহট্টের প্রাচীন রাজ্য জয়ন্তীয়া, লাউড় ও গৌড় বিস্তৃত ছিল ।"/>
+
+            <TextView
+                android:id="@+id/sylhet5"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="নামকরণ"/>
+
+            <TextView
+                android:id="@+id/sylhet6"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="প্রাচীন গ্রন্থাদিতে এ অঞ্চলের (সিলেট বিভাগ) বিভিন্ন নামের উল্লেখ আছে। হিন্দুশাস্ত্র অনুসারে শিবের স্ত্রী সতি দেবির কাটা হস্ত (হাত) এই অঞ্চলে পড়েছিল, যার ফলে 'শ্রী হস্ত' হতে
+শ্রীহট্ট নামের উৎপত্তি বলে হিন্দু সম্প্রদায় বিশ্বাস করেন। খ্রিস্টপূর্ব চতুর্থ শতকের ঐতিহাসিক এরিয়ান লিখিত বিবরণীতে এই অঞ্চলের নাম সিরিওট বলে উল্লেখ আছে। এছাড়া, খ্রিস্টীয়
+            দ্বিতীয় শতকে এলিয়েনের (Ailien) বিবরণে সিরটে, এবং পেরিপ্লাস অব দ্যা এরিথ্রিয়ান সী নামক গ্রন্থে এ অঞ্চলের নাম সিরটে এবং সিসটে এই দুইভাবে লিখিত হয়েছে।
+            অতঃপর ৬৪০ খ্রিস্টাব্দে যখন চীনা পরিব্রাজক হিউয়েন সাং এই অঞ্চল ভ্রমণ করেন। তিনি তাঁর ভ্রমণ কাহিনীতে এ অঞ্চলের নাম শিলিচতল উল্লেখ করেছেন[৮]। তুর্কি সেনাপতি
+            ইখতিয়ার উদ্দীন বিন বখতিয়ার খলজি দ্বারা বঙ্গবিজয়ের মধ্য দিয়ে এদেশে মুসলিম সমাজব্যবস্থার সূত্রপাত ঘটলে মুসলিম শাসকগণ তাঁদের দলিলপত্রে শ্রীহট্ট নামের পরিবর্তে
+            সিলাহেট, সিলহেট ইত্যাদি নাম লিখেছেন বলে ইতিহাসে প্রমাণ মিলে। আর এভাবেই শ্রীহট্ট থেকে রূপান্তর হতে হতে একসময় সিলেট নামটি প্রসিদ্ধ হয়ে উঠেছে বলে ঐতিহাসিকরা
+            ধারণা করেন।"/>
+
+            <TextView
+                android:id="@+id/sylhet7"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="আর ইসলামের ভিত্তিতে হযরত শাহ্ জালাল (রা.) যখন সিলেটে আসেন তখন তাঁর শত্রুরা তাঁকে পাথর বা শিল দ্বারা আগলে ধরে ধরে, তখন হযরত শাহ্ জালাল (রা.) আল্লাহ্‌ তায়ালার
+উসিলায় বলেন শিলা হাট (অর্থ্যাৎ পাথর সরে যা)। এই থেকেই নাম করণ করা হয় শিলা হাট। আস্তে আস্তে বানানকে সহজ করতে করতে শিলহাট, সিলহেট, সিলেট নাম
+            করণ করা হয় ।"/>
+
+            <TextView
+                android:id="@+id/sylhet8"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ভূপ্রকৃতি"/>
+
+            <TextView
+                android:id="@+id/sylhet9"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সিলেট বিভাগের উত্তর, পূর্ব ও দক্ষিণদিকে উঁচু উঁচু পর্বত শ্রেণীর পাহাড়ী অঞ্চল। মেঘালয়া, খাসিয়া, জয়ন্তীয়া, ত্রিপুরার পাহাড়ের মাঝামাঝি বিস্তীর্ণ এলাকাটিই হচ্ছে সিলেট বিভাগ বা
+প্রাচীন শ্রীহট্ট। ইহা পূর্ব দিক হতে ত্রিবেণীর আকারে পশ্চিম দিকে বাংলাদেশর মানচিত্রে যুক্ত হয়েছে। অভ্যন্তরীণ সীমা ভূমি বেশির ভাগ সমতল প্রান্তর। স্থানে স্থানে জঙ্গল ও বালুকাময়
+ক্ষুদ্র ক্ষুদ্র টিলা রয়েছে।"/>
+
+            <TextView
+                android:id="@+id/sylhet10"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="অভ্যন্তরে বহুতর নদী প্রবাহিত। পাহাড়, নদী ও হাওরে ঘেরা সবুজ শ্যামল প্রাকৃতিক ভূমি (প্রাকৃতিক লীলাভূমি) বলে ধারণা করা হয়। সিলেট বিভাগের অভ্যন্তরের পাহাড় গুলোয় বিস্তৃত
+চায়ের বাগান। এই বিভাগের দক্ষিণ সীমায় ত্রিপুরার পাহাড় গুলো উত্তর দক্ষিণে লম্বালম্বিভাবে বিস্তৃত হয়ে সাতটি পাহাড় শ্রেণী সিলেট বিভাগের ভূমিতে ক্রমশ প্রসারিত হয়েছে। সিলেট
+বিভাগ ২৩° ২৭’ দ্রাঘিমায় অবস্থান উত্তর ও দক্ষিণের সবুজ শ্যামল অরণ্য। উত্তর পূর্ব সীমায় খাসিয়া ও জয়ন্তীয়া পাহাড়ের পাদদেশে প্রকৃতি কন্যা সিলেটের জাফলং এর
+অবস্থান। ডাউকি পাহাড় হতে বিরতিহীন ধারায় প্রবাহিত মনোমুগ্ধকর ঝরণা বা জলপ্রপাত জাফলং এর অনেক বৈশিষ্ট্যের মধ্যে একটি। সিলেট শহর হতে ৬২ কিলোমিটার উত্তর পূর্বে
+গোয়াইনঘাট উপজেলায় ইহা অবস্থিত।"/>
+
+            <TextView
+                android:id="@+id/sylhet11"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জলাশয়"/>
+
+            <TextView
+                android:id="@+id/sylhet12"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সিলেট বিভাগ উত্তর ও দক্ষিণ হতে পাহাড় দ্বারা বেষ্টিত। অভ্যন্তরীণ সীমানার ভূমি বেশির ভাগ সমতল। বৈশাখ হতে ভাদ্র মাস পর্যন্ত প্রচুর পরিমাণ বৃষ্টিপাত হয় । বৃহৎ জলপাতের কারণ
+পাহাড় হতে ঢল নেমে ক্ষুদ্র নদী গুলোর ধারণ ক্ষমতা কমে যায়। যার ফলে প্রতি বছরই মৌসুমি বন্যায় কবলিত হয় বেশীর ভাগ নিম্নাঞ্চল।"/>
+
+            <TextView
+                android:id="@+id/sylhet13"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="পূর্ব দিকে বরাক ও সুরমা নদী পশ্চিম দিকে প্রবাহিত হচ্ছে । বরাক নদী মণিপুরের আঙ্গামীনাগা পর্বতে সৃষ্ট। এই নদী দক্ষিণ দিকে মণিপুরে ১৮০ মাইল প্রবাহিত হয়ে কাছাড় জেলায়
+প্রবেশ করে । অতপর কাছাড় জেলা ভেদ করে বদরপুরের কাছ দিয়ে শ্রীহট্ট জেলায় প্রবেশ করে দুই শাখায় প্রবাহিত হয়েছে। উত্তর দিকে প্রবাহিত শাখা সুরমা নামে খ্যাত এবং দক্ষিণ
+            দিগে প্রবাহিত শাখাই বরাক বা কুশিয়ারা নামে খ্যাত । দক্ষিণ শাখা বরাক বা কুশিয়ারা নদীর দৈর্ঘ্য্য প্রায় ১২০ মাইল।"/>
+
+            <TextView
+                android:id="@+id/sylhet14"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="উত্তরে প্রবাহিত শাখা সুরমা হরুটিকরের নিকট মুল বরাক হতে বিভক্ত হয়ে উত্তর পশ্চিম ও পশ্চিম দিগে সুনামগঞ্জ পর্যন্ত গিয়েছে, তত্পর দক্ষিণমুখী হয়ে দিরাই উপজেলা দিয়ে মারকুলীর
+নিকট বিবিয়ানায় যুক্ত হয়েছে। সুরমার দ্বিতীয় আরেকটি শাখা রয়েছে, যাহা চরণার চর, শ্যামের চর হয়ে দীর্ঘ পথ পরিক্রমায় ময়মনসিংহে প্রবেশ করে আজমিরিগঞ্জের নিকট ধলেশ্বরী
+নদীতে মিলিত হয়েছে।"/>
+
+            <TextView
+                android:id="@+id/sylhet15"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এছাড়া ত্রিপুরার পর্বতের সঙ্খলং পাহাড় থেকে প্রায় ১০০ মাইল দৈর্ঘ্য্য প্রশ্চিম দিগে প্রবাহিত জলপাত মণু নাম ধারণ করে কৈলাশহর, তীরপাশা, কদমহাটা, মৌলবীবাজার, আখাইল কুড়া
+ইত্যাদি দিয়ে প্রবাহিত হয়ে কুশিয়ারাতে পতিত হয়েছ।ত্রিপুরার পর্বতান্তর্গত জম্পাই নামের আরেক পাহাড় হতে উত্পন্ন অন্য জলপাত উত্তর দিগে প্রবাহিত হয়ে লঙ্গাই নাম ধরে লঙ্গাই ষ্টেশন
+পর্যন্ত এসেছে এবং তথা হতে পশ্চিম দক্ষিণ দিকে হাকালুকি হাওরের মধ্য দিয়ে জুড়ী নদীর সহিত মিলিত হয়ে ফেঞ্চুগঞ্জএর নিকটে কুশিয়ারায় পতিত হয়েছে। জুড়ীর সম্মিলন পর্যন্ত লঙ্গাইর
+ দৈর্ঘ্য প্রায় ৯৫ মাইল। উক্ত নদী গুলো ছাড়া সিলেট বিভাগের অভ্যন্তরে ছোট ছোট আরো বহু নদ-নদী রয়েছে ।"/>
+
+            <TextView
+                android:id="@+id/sylhet16"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="নদী ছাড়া 'জলাশয় হিসেবে' সিলেট বিভাগে প্রায় ৪৬টি হাওর রয়েছে। বড় বড় হাওর গুলো একেকটিতে দেড় থেকে দুই হাজার হেক্টর জমিতে বোর ফসলের আবাদ হয়। সিলেটের হাওর
+গুলোতে হেমন্ত কালে অনেকাংশে জল জমাট থাকে। জল জমাট অংশ গুলো বিল হিসেবে খ্যাত এবং ঐ বিল হতে রুই, কাতলা, বোয়াল, ঘাগট ইত্যাদি জাতীয় মাছ পাওয়া যায়। হাওর
+গুলোর মধ্যে প্রসিদ্ধ; হাকালুকি হাওর, জাওয়া হাওর, টাঙ্গুয়া হাওর, শণির হাওর, টগার হাওর, ডেকার হাওর, ঘুঙ্গি জুরির হাওর, মইয়ার হাওর, শউলার হাওর, বানাইয়ার হাওর, দেখার হাওর,
+জিলকার হাওর ইত্যাদি ।"/>
+
+            <TextView
+                android:id="@+id/sylhet17"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+
+            <TextView
+                android:id="@+id/sylhet18"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সিলেটের ইতিহাস কয়েকটি পর্বে ভাগ করা যেতে পারে; যেমন; প্রাচীন অধিবাসী বিবরণ, ঐতিহাসিক বিবরণ, প্রাচীন রাজ্য সমুহ, আর্য যুগ, মোসলমান শাসিত আমল, মোগল আমল,
+ব্রিটিস আমল, পাকিস্তানে অর্ন্তভুক্তি, মুক্তি যুদ্ধ ও বাংলাদেশ। সিলেট বলতে বাংলাদেশের উত্তর-পূর্বাংশের সিলেট বিভাগ বোঝানো হয় যদিও ঐতিহাসিক সিলেট অঞ্চলের কিছু অংশ
+১৯৪৭ খ্রিস্টাব্দ ধেকে ভারতের আসাম রাজ্যের অঙ্গীভূত হয়ে আছে।"/>
+
+            <TextView
+                android:id="@+id/sylhet19"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বর্ণিত আছে যে, পৌরাণিক যুগে এই অঞ্চল প্রাচীন কামরূপ রাজ্যের অন্তর্ভুক্ত ছিল। ঐ যুগে সিলেটের লাউড় পর্বতে কামরূপ রাজ্যের উপরাজধানী ছিল বলে জানা যায়। ধারণা করা
+হয় প্রাচীনকালে দ্রাবিড় ও মঙ্গোলীয় জনগোষ্ঠী এই অঞ্চলে বসতি স্থাপন করেছিল। খ্রিস্টীয় সপ্তম শতাব্দীর পর জয়ন্তীয়া, লাউড় ও গৌড় নামে তিনটি স্বতন্ত্র রাজ্যে বিভক্ত ছিল।
+প্রাচীন গৌড় রাজ্যই বর্তমান (বিভাগীয় শহর) সিলেট অঞ্চল বলে ঐতিহাসিকভাবে স্বীকৃত। দশম শতাব্দিতে এ অঞ্চলের কিছু অংশ বিক্রমপুরের চন্দ্রবংশীয় রাজাদের দ্বারা শাসিত
+হয় বলে জানা যায়। ১২০৪ খ্রিস্টাব্দে ইখতিয়ার উদ্দীন মোহাম্মদ বিন বখতিয়ার খিলজির বঙ্গবিজয়ের মধ্য দিয়ে এই অঞ্চল মুসলমানদের দ্বারা অধিকৃত হয় এবং ১৩০৩ খ্রিস্টাব্দে আউলিয়া
+শাহ জালাল (রহ:) দ্বারা গৌড় রাজ্য বিজিত হলে, দিল্লীর সুলতানদের মাধ্যমে রাষ্ট্রীয়ভাবে মুসলিম শাসন প্রতিষ্ঠিত হয়। তখন আউলিয়া শাহ জালালের নামের সাথে মিল রেখে গৌড় নামের
+পরিবর্তে এই শহরের নামকরণ করা হয় জালালাবাদ।"/>
+
+            <TextView
+                android:id="@+id/sylhet20"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="অতঃপর ১৫৭৫ খ্রিস্টাব্দে শক্তিশালী মোগল সাম্রাজ্যের অন্তর্ভুক্ত হলে এ অঞ্চলের ভৌগোলিক সীমানার অনেক পরিবর্তন ঘটে। ১৭৬৫ খ্রিস্টাব্দে সিলেট বিভাগ ইস্ট ইন্ডিয়া কোম্পানীর
+অধিক্ষেভুক্ত হয়৤ ১৭৭২ খ্রিস্টাব্দে গঠিত হয় (সাবেক) সিলেট জেলা যার সাড়ে তিন থানা ১৯৪৭ থেকে ভারতের অন্তর্ভুক্ত৤ সেসময় সিলেট জেলার আয়তন ছিল ৫,৪৪০ বর্গমাইল।
+১৮৭৪ খ্রিস্টাব্দে এই অঞ্চল ভারতের আসাম প্রদেশের অন্তর্ভুক্ত হয়। ১৯৪৭ খ্রিস্টাব্দের পূর্ব পর্যন্ত (১৯০৫-১৯১১ পর্যন্ত বঙ্গভঙ্গ সময়ের কালটুকু বাদ দিয়ে) সিলেট আসামের অঙ্গীভূত ছিল।
+১৯৪৭ খ্রিস্টাব্দে গণভোটের মাধ্যমে এই অঞ্চল নবসৃষ্ট পাকিস্তান রাষ্ট্রের সীমানাভুক্ত হয়ে কালক্রমে বর্তমান বাংলাদেশের অন্তর্ভুক্ত; যদিও এর কিছু অংশ যথা করিমগঞ্জ, পাথারকান্দি,
+ বদরপুর ইত্যাদি অঞ্চল সিলেট থেকে বিচ্যূত হয়ে আসাম তথা স্বাধীন ভারতের অঙ্গীভূত হয়ে পড়ে।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Jaflong">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাফলং"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাফলং, বাংলাদেশের সিলেটের গোয়াইনঘাট উপজেলার অন্তর্গত, একটি পর্যটনস্থল। জাফলং, সিলেট শহর থেকে ৬২ কিলোমিটার উত্তর-পূর্ব দিকে, ভারতের মেঘালয় সীমান্ত ঘেঁষে
+খাসিয়া-জৈন্তা পাহাড়ের পাদদেশে অবস্থিত, এবং এখানে পাহাড় আর নদীর অপূর্ব সম্মিলন বলে এই এলাকা বাংলাদেশের অন্যতম একটি পর্যটনস্থল হিসেবে পরিচিত।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বিবরণ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাংলাদেশের সিলেটের সীমান্তবর্তী এলাকায় জাফলং অবস্থিত। এর অপর পাশে ভারতের ডাওকি অঞ্চল। ডাওকি অঞ্চলের পাহাড় থেকে ডাওকি নদী এই জাফলং দিয়ে বাংলাদেশে প্রবেশ
+করেছে। মূলত পিয়াইন নদীর অববাহিকায় জাফলং অবস্থিত। সিলেট জেলার জাফলং-তামাবিল-লালখান অঞ্চলে রয়েছে পাহাড়ী উত্তলভঙ্গ। এই উত্তলভঙ্গে পাললিক শিলা প্রকটিত হয়ে
+আছে, তাই ওখানে বেশ কয়েকবার ভূতাত্ত্বিক জরিপ পরিচালনা করা হয়েছে বাংলাদেশের পক্ষ থেকে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাংলাদেশে চার ধরণের কঠিন শিলা পাওয়া যায়, তন্মধ্যে ভোলাগঞ্জ-জাফলং-এ পাওয়া যায় কঠিন শিলার নুড়ি। এছাড়া বর্ষাকালে ভারতীয় সীমান্তবর্তী শিলং মালভূমির পাহাড়গুলোতে
+প্রবল বৃষ্টিপাত হলে ঐসব পাহাড় থেকে ডাওকি নদীর প্রবল স্রোত বয়ে আনে বড় বড় গণ্ডশিলাও (boulder)। একারণে সিলেট এলাকার জাফলং-এর নদীতে প্রচুর পরিমাণে পাথর
+পাওয়া যায়। আর এই এলাকার মানুষের এক বৃহৎ অংশের জীবিকা গড়ে উঠেছে এই পাথর উত্তোলন ও তা প্রক্রিয়াজাতকরণকে ঘিরে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাফলং-এ পাথর ছাড়াও পাওয়া গেছে সাদামাটি বা চীনামাটিও, যদিও সেখানে মাটি বা বালি পরিশোধন করার মতো কোনো অবকাঠামো নেই।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এই এলাকায় যেমন সাধারণ বাঙালিরা বসবাস করেন, তেমনি বাস করেন উপজাতিরাও। জাফলং-এর বল্লা, সংগ্রামপুঞ্জি, নকশিয়াপুঞ্জি, লামাপুঞ্জি ও প্রতাপপুর জুড়ে রয়েছে ৫টি খাসিয়াপুঞ্জী।
+আদমশুমারী অনুযায়ী জাফলং-এ ১,৯৫৩ জন খাসিয়া উপজাতি বাস করেন।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ঐতিহাসিকদের মতে বহু হাজার বছর ধরে জাফলং ছিল খাসিয়া জৈন্তা-রাজার অধীনে থাকা এক নির্জন বনভূমি। ১৯৫৪ খ্রিস্টাব্দে জমিদারী প্রথার বিলুপ্তির মধ্য দিয়ে খাসিয়া-জৈন্তা রাজ্যের
+অবসান ঘটলেও বেশ কয়েক বছর জাফলংয়ের বিস্তীর্ণ এলাকা পতিতও পড়েছিল। পরবর্তিতে ব্যবসায়ীরা পাথরের সন্ধানে বিভিন্ন এলাকা থেকে নৌপথে জাফলং আসতে শুরু করেন,
+আর পাথর ব্যবসার প্রসার ঘটতে থাকলে একসময় গড়ে ওঠে নতুন জনবসতি।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৯৭১ সালের বাংলাদেশের মুক্তিযুদ্ধের সময় সিলেটে মুক্তিযোদ্ধাদের ক্যাম্প ছিল জাফলংয়ের সীমান্তের ওপারে ভারতের ডাউকিতে। ১৩ জুলাই ইপিআর ও ইস্ট বেঙ্গল রেজিমেন্টের
+সদস্যদের একটি সশস্ত্র দল জাফলংয়ে ঢোকে। পিয়াইন নদীর ভাটিতে বাংলাদেশ অংশে রাজাকার আজিরউদ্দিনের বাড়িতে ছিল একদল পাকিস্তানি সেনা। উভয় পক্ষের মধ্যে দুই দফা
+যুদ্ধ শেষে পাকিস্তানী বাহিনীর ৫ সেনা নিহত হলে পাকিস্তানিরা পলিয়ে যায়। একই সময় দুজন মুক্তিযোদ্ধাও আহত হন। এছাড়া জাফলংয়ের পাশে সারি নদীতেও বড় আকারের যুদ্ধ হয়।
+আর এভাবেই শত্রুমুক্ত হয়ে স্বাধীনতা পায় জাফলং। আর আজ জাফলং বাংলাদেশের অভ্যন্তরে একটি অন্যতম গুরুত্বপূর্ণ স্থানের রূপ পরিগ্রহ করেছে। তামাবিল স্থল বন্দরের শুল্ক
+অফিসের পাশেই রয়েছে মুক্তিযুদ্ধে শহীদদের গণ কবর।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="দর্শনীয় বিষয়"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাফলং-এর বাংলাদেশ সীমান্তে দাঁড়ালে ভারত সীমান্ত-অভ্যন্তরে থাকা উঁচু উঁচু পাহাড়শ্রেণী দেখা যায়। এসব পাহাড় থেকে নেমে আসা ঝরণা পর্যটকদের অন্যতম আকর্ষণ। এছাড়া
+ভারতের ডাউকি বন্দরের ঝুলন্ত সেতুও আকর্ষণ করে অনেককে। এছাড়া সর্পিলাকারে বয়ে চলা ডাওকি নদীও টানে পর্যটকদের। মৌসুমী বায়ুপ্রবাহের ফলে ভারত সীমান্তে প্রবল বৃষ্টিপাত
+হওয়ায় নদীর স্রোত বেড়ে গেলে নদী ফিরে পায় তার প্রাণ, আর হয়ে ওঠে আরো মনোরম। ডাওকি নদীর পানির স্বচ্ছতাও জাফলং-এর অন্যতম আকর্ষণ। পহেলা বৈশাখে বাংলা নববর্ষকে
+ঘিরে জাফলং-এ আয়োজন করা হয় বৈশাখী মেলা। এই মেলাকে ঘিরে উৎসবে মুখরিত হয়ে উঠে পুরো এলাকা। বর্ষাকাল আর শীতকালে জাফলং-এর আলাদা আলাদা সৌন্দর্য ফুটে ওঠে।
+বর্ষাকালে বৃষ্টিস্নাত গাছগাছালি আর খরস্রোতা নদী হয় দেখার মতো। তাছাড়া পাহাড়ের মাথায় মেঘের দৃশ্যও যথেষ্ট মনোরম।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জীব ও উদ্ভিদবৈচিত্র্য"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাফলং অঞ্চলের উদ্ভিদ প্রজাতির মধ্যে খাটো জাতের মধ্যে পাম গাছ (Licuala species) দেখা যায়।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাফলং-এ নারিকেল আর সুপারির গাছকে কেন্দ্র করে বাস করে প্রচুর বাদুড়। এছাড়া জাফলং বাজার কিংবা জাফলং জমিদার বাড়িতে আবাস করেছে বাদুড়। যদিও খাদ্যসংকট, আর
+মানুষের উৎপাতে, কিংবা অবাধ বৃক্ষনিধনে অনেক বাদুড় জাফলং ছেড়ে চলে যাচ্ছে জৈয়ন্তিয়া আর গোয়াইনঘাটের বেঁচে থাকা বনাঞ্চলে, কিংবা প্রতিবেশী দেশ ভারতে।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="পবিবেশ বিপর্যয়"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাফলং-এর পাথর শিল্প একদিকে যেমন ঐ এলাকাকে সকল অঞ্চলের কাছে পরিচিত করেছে, তেমনি এই পাথর শিল্পের যথেচ্ছ বিস্তারে এলাকার বাতাস হয়ে পড়েছে কলুষিত। যন্ত্রের
+সহায়তায় উন্মুক্ত উপায়ে পাথর ভাঙার কারণে ভাঙা পাথরের গুঁড়া আশপাশের এলাকায় ছড়িয়ে পড়ছে আর সাধারণ্যের শ্বাস-প্রশ্বাসকে ব্যাহত করছে। এছাড়া সরকারি বিধিনিষেদের
+তোয়াক্কা না করে নদী থেকে যথেচ্ছ পাথর উত্তোলন নদীর জীববৈচিত্র্য আর উদ্ভিদবৈচিত্র্যকে করে তুলেছে হুমকির সম্মুখিন। এছাড়া অনুমোদনহীনভাবে ৩০-৩৫ ফুট গর্ত করে পাথর
+উত্তোলন নদী এবং নদী অববাহিকার ভূমিকে করছে হুমকির সম্মুখিন। এলাকার প্রভাবশালীদের হস্তক্ষেপে বিপুল পরিমাণ গাছ কেটে ফেলার কারণে প্রায়ই সেখানে নানা রোগব্যাধির প্রকোপ
+লক্ষ্য করা যায়। তাছাড়া উজান থেকে নেমে আসা পাথর আর বালুতে সয়লাব হয়ে যাওয়ায় পিয়াইন নদীর নাব্যতা কমে গেছে। ফলে হঠাৎই উজান থেকে নেমে আসা ঢলে ক্ষতিগ্রস্থ হয়
+নিকটবর্তি অঞ্চলের মানুষের জীবন-জীবিকা; যেমন: ১৯৮৮ খ্রিস্টাব্দে ডাউকি সীমান্তে এরকমই উজান থেকে ধেয়ে আসা ঢলে বিডিআর ক্যাম্পসহ বেশ কিছু এলাকা লণ্ডভণ্ড হয়ে যায়।
+২০০৯ খ্রিস্টাব্দের ২০ মে তারিখেও অনুরূপ ঢলে ক্ষতিগ্রস্থ হয় চা-বাগানসহ বস্তি। এছাড়া নিষিদ্ধ বোমা মেশিন (স্থানীয় নাম) দিয়ে নদী থেকে পাথর উত্তোলনের কারণে স্থানীয়
+            পিয়াইন নদী বন্যা নিয়ন্ত্রণ বাঁধ ভেঙে বিপুল সম্পদের অপচয়ও পরিবেশ বিপর্যয়ের অন্যতম একটি উদাহরণ (প্রেক্ষিত জুলাই ২০১২)।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

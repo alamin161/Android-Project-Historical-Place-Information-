@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".National_park">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাতীয় উদ্যান"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাতীয় উদ্যান হলো এমন স্বাভাবিক বা মনুষ্যনির্মিত বনাঞ্চল, যেখানে বন্যপ্রাণীদের নিরাপত্তা নিশ্চিত করা হয় এবং তাদের প্রজনন ও আবাস নিরাপদ রাখতে শিকারিদের প্রবেশে নিষেধাজ্ঞা
+জারি করা হয়।সাধারণত বন্যপ্রাণীদের নিরাপদ পরিবেশ, তাদের স্বাভাবিক কিংবা বর্ধিত প্রজনন পরিবেশ, বন্যপ্রাণীর স্বাভাবিক সংখ্যা এবং বৃক্ষরাজি কিংবা ঔষধি বৃক্ষরাজির নিরাপদ সংরক্ষণ
+নিশ্চিত করতে সরকার কিংবা নির্বাহী কর্তৃপক্ষ কর্তৃক কোনো এলাকায় প্রাকৃতিকভাবে গড়ে ওঠা বনাঞ্চলকে অভয়ারণ্য ঘোষণা করা হয়। ভারতে এই ঘোষণা কেন্দ্রীয় সরকার করে থাকেন।
+ভারতে ৯৭টি অরণ্যকে জাতীয় উদ্যান ঘোষণা করা হয়েছে এবং ১৬৬ আরো অরণ্যকে জাতীয় উদ্যান ঘোষণার চেষ্টা চলছে।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="নিয়মাবলী"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাতীয় উদ্যান ঘোষণা করার মাধ্যমে নিশ্চিত করা হয়:"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১। ঐ এলাকার বন্যপ্রাণী যেন ধ্বংস না হয়।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="২। পশুপাখিদের শান্তি ও নিরাপত্তা বিঘ্নিত হতে পারে এমন কাজ থেকে যেন এই বনাঞ্চল মুক্ত থাকে। বাইরে থেকে শিকারিরা যাতে এই নিরাপত্তা বলয়ে প্রবেশ না করতে পারে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="৩। ভারতে গবেষণার উদ্দেশ্শ্যে শিকার করার বিশেষ অনুমতি নেওয়া যেতেপারে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এই বিধি বিভিন্ন দেশে বিভিন্ন রকম। ভারতে কোনো অরণ্য যদি একাধিক রাজ্যে বিস্তৃত থাকে, সংশ্লিষ্ট রাজ্য দায়িত্ব গ্রহণে অপারগ হয় অথবা জীব বৈচিত্রে বিশেষ সমৃদ্ধ হয় তাহলে থাকে
+জাতীয় উদ্যানের মর্যাদা দেওয়া হয়।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

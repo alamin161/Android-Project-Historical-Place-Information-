@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Second_World_War_cemetery">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কমনওয়েলথ সমাধি ক্ষেত্র অথবা ময়নামতি ওয়ার সিমেট্রি। স্থানীয় লোকদের কাছে এটা ইংরেজদের কবরস্থান হিসেবে পরিচিত। এখানে চিরনিদ্রায় শায়িত রয়েছেন দ্বিতীয় বিশ্বযুদ্ধের ৭৩৭ সৈন্য।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এরমধ্যে ২৪ জন জাপানি যুদ্ধ বন্দি এবং ১ জন বেসামরিক ব্যক্তি। স্থানীয়দের ভাষায় একে ইংরেজ কবরস্থান বলা হলেও আসলে এখানে সারিবদ্ধভাবে শায়িত রয়েছেন মুসলিম,
+ খৃষ্টান, ইহুদী, হিন্দু এবং বৌদ্ধ। দ্বিতীয় বিশ্বযুদ্ধে নিহত এবং যুদ্ধে আহত হয়ে পরে মারা যাওয়া সাধারণ সৈনিক থেকে ব্রিগেডিয়ার পদমর্যাদার এখানে সমাহিত করা হয়েছে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কুমিল্লা শহর থেকে ৫ কিলোমিটার পশ্চিমে ঢাকা-চট্টগ্রাম মহাসড়ক সংলগ্ন কুমিল্লা ক্যান্টনমেন্টের টিপরা বাজার। টিপরা বাজার ও ময়নামতি সাহেবের বাজারের মাঝামাঝি
+কুমিল্লা-সিলেট সড়কের বাম পাশে প্রাকৃতিক সৌন্দর্যের সাড়ে চার একর পাহাড়ি ভূমি জুড়ে বাংলাদেশে অবস্থিত দ্বিতীয় এ কমনওয়েলথ সমাধি ক্ষেত্র। দেশে অপর কমনওয়েলথ
+সৈন্যদের সমাধি রয়েছে চট্টগ্রাম শহরের বাদশা মিয়া চৌধুরী রোডে। সেখানে ৭৫৫  সৈনিকের সমাধি আছে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কুমিল্লা কমনওয়েলথ সমাধির পাহাড়ের প্রথম ধাপে রয়েছে ইউরোপিয়ানদের কবর। উপরের ধাপে রয়েছে এ উপমহাদেশের যোদ্ধাদের কবর। সমাধিগুলো সারিবদ্ধভাবে সাজানো
+রয়েছে। ১৪টি  বাদে প্রত্যেক সমাধিতে লেখা আছে নিহত সৈনিকের নাম, বয়স, পদবী, নিহত হবার তারিখ ও ঠিকানা।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সমাধিক্ষেত্রের আগে সেখানে ছিল বৌদ্ধ বিহার মন্দির। সেখানে নির্মাণ করা হয়েছে শ্বেত পাথরের একটি ক্রশ। বর্গাকার  এ সমাধি ক্ষেত্রের প্রত্যেকটির দৈর্ঘ্য প্রায় আড়াইশ ফুট। সমাধি
+ক্ষেত্রের মোট আয়তন সাড়ে ৪ একর। সমাধি ক্ষেত্রের চারদিক বাউন্ডারি দেওয়া।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="পুরো সমাধিক্ষেত্রে হরেক রকম ফুল এবং অন্যান্য গাছ দিয়ে পরিকল্পিত ও সুবিন্যস্তভাবে সাজানো। গাছ-গাছালির অপূর্ব নৈসর্গিক সৌন্দর্য ঘিরে রেখেছে এ সমাধিক্ষেত্রটি। এ সমাধি
+ক্ষেত্রটিতে গেলে ফুলের সৌরভ, গাছের পাতায় বাতাস আর রোদের খেলা, পাখীর ডাকে বিমোহিত পরিবেশ সৃষ্টি করে মনে অন্যরকম এক অনুভূতি জাগায়। তখন মনে হয় মানব জাতির
+জন্য যুদ্ধ কি খুব প্রয়োজনীয়?"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এখানে সমাধির সংখ্যা ছিল ৭৩৮টি। ১৯৬২ সালে এ সমাধিস্থল থেকে একজন সৈনিকের আত্মীয়স্বজন তার দেহাবশেষ যুক্তরাষ্ট্রে নিয়ে যান। বর্তমানে এ সমাধি সংখ্যা ৭৩৭টি। এরমধ্যে
+১৪জন সৈনিকের পরিচয় পাওয়া যায়নি। এখানে যাদের সমাহিত করা হয়েছে তাদের লাশ আনা হয়েছে ঢাকা, ফরিদপুর, সৈয়দপুর ও সিরাজগঞ্জ থেকে। আর্মি গ্যারিসন ইঞ্জিনিয়ারগণ
+এ সমাধি ক্ষেত্রটি তৈরী করেন।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এ সমাধি ক্ষেত্রে রয়েছে- বৃটেনের ৩৫০ জন, কানাডার ১২ জন, অস্ট্রেলিয়ার ১২ জন, নিউজিল্যান্ডের ৪ জন, দক্ষিণ আফ্রিকার ১ জন, ভারতের ১৭২ জন, পূর্ব আাফ্রিকার ৫৬ জন,
+পশ্চিম আফ্রিকার ৮৬ জন, বার্মার ১ জন, দক্ষিণ রোডেশিয়ার ৩ জন, বেলজিয়ামের ১ জন, পোলান্ডের ১ জন এবং জাপানের ২৪ জনের কবর।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

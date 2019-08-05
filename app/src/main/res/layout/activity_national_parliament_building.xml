@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".National_parliament_building">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাতীয় সংসদ ভবন"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জাতীয় সংসদ ভবন বাংলাদেশের জাতীয় সংসদের প্রধান ভবন। এটি ঢাকার শেরেবাংলা নগর এলাকায় অবস্থিত। প্রখ্যাত মার্কিন স্থপতি লুই কান এটির মূল স্থপতি।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="তৎকালীন পাকিস্তান সরকার পূর্ব পাকিস্তান (বর্তমান বাংলাদেশ) ও পশ্চিম পাকিস্তানের (বর্তমান পাকিস্তান) জন্য আইনসভার জন্য জাতীয় সংসদ ভবনের নির্মাণ শুরু হয় ১৯৬১ সালে।
+১৯৮২ সালের ২৮শে জানুয়ারি নির্মাণ কাজ সম্পন্ন হওয়ার পর একই বছরের ১৫ই ফেব্রুয়ারি বাংলাদেশের দ্বিতীয় সংসদের অষ্টম (এবং শেষ) অধিবেশনে প্রথম সংসদ ভবন ব্যবহৃত হয়।
+তখন থেকেই আইন প্রণয়ন এবং সরকারি কর্মকাণ্ড পরিচালনার মূল কেন্দ্র হিসাবে এই ভবন ব্যবহার হয়ে আসছে।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সংসদীয় ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাংলাদেশে গঠিত সকল সংসদের তালিকা:"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১) প্রথম সংসদ: ২ বছর ৬ মাস (৭ই এপ্রিল, ১৯৭৩ - ৬ই নভেম্বর, ১৯৭৫) আওয়ামী লীগের নেতৃত্বে "/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="২) দ্বিতীয় সংসদ: ২ বছর ১১ মাস (২রা এপ্রিল, ১৯৭৯ - ২৪শে মার্চ, ১৯৮২) বাংলাদেশ জাতীয়তাবাদী দলের নেতৃত্বে "/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="৩) তৃতীয় সংসদ: ১ বছর ৫ মাস (১০ই জুলাই, ১৯৮৬ - ৬ই ডিসেম্বর, ১৯৮৭) জাতীয় পার্টির নেতৃত্বে "/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="৪) চতুর্থ সংসদ: ২ বছর ৭ মাস (১৫ই এপ্রিল, ১৯৮৮ - ৬ই ডিসেম্বর, ১৯৯০) জাতীয় পার্টির নেতৃত্বে "/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="৫) পঞ্চম সংসদ: ৪ বছর ৮ মাস (৫ই এপ্রিল, ১৯৯১ - ২৪শে নভেম্বর, ১৯৯৫) বাংলাদেশ জাতীয়তাবাদী দলের নেতৃত্বে "/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="৬) ষষ্ঠ সংসদ: ১২ দিন (১৯শে মার্চ, ১৯৯৬ - ৩০শে মার্চ, ১৯৯৬) বাংলাদেশ জাতীয়তাবাদী দলের নেতৃত্বে "/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="৭) সপ্তম সংসদ: ৫ বছর (১৪ই জুলাই, ১৯৯৬ - ১৩ই জুলাই, ২০০১) আওয়ামী লীগের নেতৃত্বে "/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="৮) অষ্টম সংসদ: (২৮শে অক্টোবর, ২০০১ - ২৭শে অক্টোবর, ২০০৬) বাংলাদেশ জাতীয়তাবাদী দল নেতৃত্বাধীন চার দলীয় জোটের নেতৃত্বে"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="৯) নবম সংসদ: (১৭ই জানুয়ারি, ২০০৯ - ) আওয়ামী লীগ নেতৃত্বাধীন জোট"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এর মধ্যে প্রথম সংসদ কখনোই জাতীয় সংসদ ভবন ব্যবহার করেনি। প্রতিটি সংসদের নেতা ছিলেন প্রধানমন্ত্রী।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="স্থাপত্যশৈলী ও নকশা"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="লুই কান কমপ্লেক্সের অবশিষ্ট অংশের ডিজাইন করেন। জাতীয় সংসদ ভবন জাতীয় সংসদ কমপ্লেক্সের একটি অংশ। কমপ্লেক্সের মধ্যে আরো আছে সুদৃশ্য বাগান, কৃত্রিম হ্রদ এবং
+সংসদ সদস্যদের আবাসস্থল।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

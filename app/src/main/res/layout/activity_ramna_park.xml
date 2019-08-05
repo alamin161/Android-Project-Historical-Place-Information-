@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ramna_park">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রমনা পার্ক"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="রমনা পার্ক ঢাকা শহরের রমনা এলাকায় অবস্থিত একটি উদ্যান। এখানে প্রতি বছর পহেলা বৈশাখের অনুষ্ঠান হয়ে থাকে।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এই উদ্যানটি ১৬১০ সালে মোঘল আমলে প্রতিষ্ঠা করা হয়। সেই সময়ে রমনার পরিসীমা ছিল বিশাল এলাকা জুড়ে। মোঘলরাই রমনার নামকরণ করেন। পুরানো হাইকোর্ট ভবন থেকে
+পূর্বের সড়ক ভবন পর্যন্ত মোঘলরা বাগান তৈরী করেছিলেন। কিন্তু পরবর্তীতে কোম্পানী আমলে এ এলাকা জঙ্গলে পরিণত হয়। ১৯ শতকে ব্রিটিশ শাসক এবং ঢাকার নবাবদের সহায়তায়
+এটির উন্নয়ন সাধন করা হয়। ঢাকা শহরের নিসর্গ পরিকল্পনার কাজ শুরু হয়েছিল ১৯০৮ সালে লন্ডনের কিউই গার্ডেনের অন্যতম কর্মী আর. এল প্রাউডলকের তত্ত্বাবধায়নে। শহরের সেই
+নিসর্গ পরিকল্পনার ফল ছিল রমনা পার্কের উন্নয়ন। ২০ বছর লেগেছিল সে কাজ শেষ হতে। "/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বর্তমানে রমনা পার্কে প্রতি বছর পহেলা বৈশাখে বর্ষবরণ অনুষ্ঠান হয়। রমনার বটমুলে ছায়ানটের আয়োজনে বর্ষবরণ অনুষ্ঠান এখন অনেক জনপ্রিয়।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

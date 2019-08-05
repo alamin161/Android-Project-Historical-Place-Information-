@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Mughal_Eidghah">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মুঘল ঈদগাহ্ (ধানমন্ডি ঈদগাহ্)"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ধানমন্ডি শাহী ঈদগাহ ঢাকার ধানমন্ডি থানায় অবস্থিত একটি প্রাচীন ধর্মীয় স্থাপনা। এটি বাংলাদেশ প্রত্নতত্ত্ব অধিদপ্তর কর্তৃক তালিকাভুক্ত একটি প্রত্নতাত্ত্বিক স্থাপনা।
+১৬৪০ খৃষ্টাব্দে বাংলার সুবাদার সম্রাট শাহজাহানের পুত্র শাহ সুজার প্রধান অমাত্য মীর আবুল কাসেম ধানমন্ডির শাহী ঈদগাহ প্রতিষ্ঠা করেন। ঢাকায় অবস্থিত মুঘল স্থাপত্য নিদর্শনসমূহের অন্যতম
+এই ঈদগাহ। ঈদগাহটি বর্তমানেও ঈদের (২০১৬ নাগাদ) নামাযের জন্য ব্যবহৃত হয়ে থাকে। ১৯৮১ সাল থেকে ঈদগাহটি সংরক্ষণ করছে বাংলাদেশ প্রত্নতত্ত্ব অধিদপ্তর।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইতিহাস"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="তৎকালীন সময়ে ধানমন্ডি শাহী ঈদগাহটি মুল শহর থেকে বেশ খানিকটা দূরে ছিল। মূল শহর, অর্থাৎ পুরনো ঢাকায় বেশ কয়েকটি সুলতানি ঈদগাহ থাকলেও বড়
+আকারে কোন ঈদগাহ ছিল না। তাই মীর আবুল কাসেম ঈদগাহের জন্য জায়গা খুজতে থাকে। অবশেষ তিনি ধানমন্ডি এলাকা বেছে নেন। কাজেই মূল নগর থেকে কিছুটা
+দূরে খোলা জায়গায় এবং সাত মসজিদের কাছে হওয়ায় ধানমন্ডি এলাকাতে ঈদগাহটি নির্মিত হয়। সেসময় সাত মসজিদে জল ও স্থলপথ - দুইভাবেই যোগাযোগ ব্যবস্থা ভাল ছিল।
+সেসময় এই ঈদগাহের পাশ দিয়ে পান্ডু নদীর একটা শাখা প্রবাহিত হত, যা বর্তমান সাত মসজিদের কাছে বুড়িগঙ্গার সাথে মিলিত হত। প্রথমদিকে এখানে শুধু সুবেদার, নায়েবে নাজিম ও
+অভিজাত মুঘল কর্মকর্তা এবং তাদের স্বজন-বান্ধবরাই নামাজ পড়তে পারতেন, সাধারণ নগরবাসীরা এতে প্রবেশ করার তেমন একটা সুযোগ পেতেন না। পরে ঈদগাহটি সকলের জন্য উন্মুক্ত
+করা হয় এবন তাতে ঢাকাসহ আশপাশের বিভিন্ন অঞ্চল থেকে মুসল্লিরা আসতেন।"/>
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="স্থাপত্য"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ধানমন্ডি ঈদগাহের দৈর্ঘ্যে ১৪৫ ফিট ও প্রস্থে ১৩৭ ফিট। ৪ ফিট উচু করে ভূমির উপরে এটি নির্মিত হয় যাতে বন্যার ক্ষতি থেকে রক্ষা পাওয়া যায়। এর চারকোণে অষ্টাভূজাকৃতির বুরুজ রয়েছে।
+তিন ধাপের মিম্বর ঈদগাহের উত্তর পাশে রয়েছে, এখানে দাঁড়িয়ে ইমামরা নামায পড়ান। ঈদগাহটি চারদিকে ১৫ ফিট উচু প্রাচীর দিয়ে ঘেরা। তবে বরতমানে কেবল পশ্চিম দিকের প্রাচীরটিই
+মোঘল আমলের। পশ্চিম প্রাচীরের মাঝ বরাবর প্রধান মেহরাব। প্রধান মেহরাবের দুই দিকে আছে বহু খাঁজবিশিষ্ট নকশা করা প্যানেল। এছাড়া ছোট আকারের দুইটি মেহরাব আছে এর দুই পাশে।
+মেহরাবগুলো দেওালের আয়তাকার ফ্রেমের ভেতরে অবস্থিত।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

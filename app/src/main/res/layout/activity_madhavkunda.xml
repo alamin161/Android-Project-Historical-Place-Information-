@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Madhavkunda">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মাধবকুন্ডু"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সরদার জাহিদুল কবীর: মাধবকুন্ডু বাংলাদেশের সর্ববৃহৎ জলপ্রপাত।এটি মৌলভীবাজার জেলার বড়লেখা উপজেলায় অবস্থিত। মৌলভীবাজারের দক্ষীণবাগ রেলওয়ে স্টেশন থেকে
+এটার দূরত্ব মাত্র ৫ কিলোমিটার।স্রোতশ্মিনী এ জলপ্রপাতের শব্দ শোনা যায় বহু দূর থেকে। প্রায় ২শ’ ফুট উপরে পাহাড়ের শীর্ষ থেকে অবিরত স্বচ্ছ জলধারা নেমে আসছে নিচেয়।
+যেখানে এই জলধারা পড়ছে সেখানে তৈরী হচ্ছে জলতরঙ্গ। বর্ষাকালে এই জলধারার পরিমাণ বেড়ে যায়। তখন মাধবকুন্ড’র সৌন্দর্য্যও বাড়ে কয়েক ধাপ। মাধবকুন্ড’র এই ঝর্ণাধারা
+বাংলাদেশের পর্যটনশিল্পে একটি অন্যমাত্রা যোগ করেছে। দেশ ও দেশের বাইরে থেকে হাজারো পর্যটক প্রতিদিন ছুটে আসে প্রকৃতির এই অপরূপ সৌন্দর্য্য উপভোগ করার জন্যে। নৈস্বর্গীক
+এই প্রতিচ্ছবি সন্দর্শনে মনের সৌন্দর্য পিপাষা যেন বুদ হয়ে ওঠে। স্বচ্ছ পানির এই ঝর্ণাধারার ঝর্ ঝর্ শব্দ আর সবুজ চাদরে ঢাকা পাহাড়ের অপরূপ সৌন্দর্য্য সবাইকে বিমোহিত করে, দু’চোখ
+যেন জুড়িয়ে যায়। এই জলপ্রপাতের পাশেই দু’টো গ্রাম রয়েছে। গ্রাম দু’টিতে বাস করে ক্ষুদ্র জাতিসত্ত্বার খাঁসিয়া সম্প্রদায়। এই ঝর্ণাধারার পাশের সবুজ বেষ্টনী যেমন আপনাকে মুগ্ধ করবে
+তেমনি এর অদূরেই দেখতে পাবেন পাখির অভয়ারণ্য হাইল হাওড়ের বাইক্কাবিল। মাধবকুন্ডু জলপ্রপাতের সৌন্দর্য্য আরো বৃদ্ধি পাক, এ প্রত্যাশাই ভ্রমণ ও প্রকৃতিপ্রেমীদের।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

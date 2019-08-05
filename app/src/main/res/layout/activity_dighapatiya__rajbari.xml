@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dighapatiya_Rajbari">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="দীঘাপতিয়া রাজবংশ"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="দীঘাপতিয়া রাজবংশ বর্তমান বাংলাদেশের রাজশাহী জেলার অন্তর্গত একটি প্রাচীন জমিদার বংশ। নাটোর রাজবংশের পতনকালে অষ্টাদশ শতাব্দীর শেষভাগে
+এই দীঘাপতিয়া রাজবংশের অভ্যুদয় হয়। প্রতিষ্ঠাতা দয়ারাম রায়। দয়ারাম রায় প্রথমতঃ নাটোরের মহারাজা রামজীবন রায়ের অধীনে একজন সামান্য কর্মচারী নিযুক্ত হয়েছিলেন।"/>
+            <TextView
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="দয়ারাম রায়"/>
+            <TextView
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="জগন্নাথ রায়"/>
+            <TextView
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="প্রাণনাথ রায়"/>
+            <TextView
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="প্রসন্ননাথ রায়"/>
+            <TextView
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="প্রথমনাথ রায়"/>
+            <TextView
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="প্রমদানাথ রায়"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

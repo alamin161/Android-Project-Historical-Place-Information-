@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bangabhaban">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বঙ্গভবন"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বঙ্গভবন  বাংলাদেশের রাষ্ট্রপতির সরকারি বাসভবন। ঢাকার দিলকুশা এলাকায় অবস্থিত। গোড়ার দিকে এটি ছিল ভারতের ব্রিটিশ ভাইসরয়ের অস্থায়ী সরকারি বাসভবন এবং পরে পূর্ববাংলার
+গভর্নরের সরকারি বাসস্থান। তখন এই ভবন গভর্নর হাউজ নামে পরিচিত ছিল।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বঙ্গভবনের বর্তমান স্থানটির দীর্ঘ ইতিহাস রয়েছে। সুলতানি আমলে সুফিসাধক হযরত শাহজালাল দখিনি এই এলাকায় বাস করতেন। তিনি ও তাঁর অনুসারীরা তৎকালীন সুলতানের লোকজন
+কর্তৃক নির্মমভাবে নিহত (৮৮১ হিজরি) হলে এখানেই তাঁদের কবর দেওয়া হয়। এ স্থানটি একসময় মাযার হিসেবে প্রসিদ্ধি লাভ করে, অবশ্য কালক্রমে এর গুরুত্ব হ্রাস পায়। মুগল শাসনামলে
+মির্জা মুকিম সুবাহদার মীরজুমলার অধীনে নওয়ারা মহলের দায়িত্বে নিয়োজিত ছিলেন। পুরানা পল্টন ময়দানের দক্ষিণ পাশে ছিল তাঁর বাসভবন।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="এই বাসস্থলের ভেতর ও বাহিরের অংশে দুটি বড় টিলা ছিল। একটি টিলা এখনও বঙ্গভবনের চৌহদ্দির মধ্যে রয়েছে। অভ্যন্তরভাগে অবস্থিত বিশাল পুকুরটি মতিঝিল (মোতির পুকুর) নামে
+পরিচিত ছিল। মুগল শাসনের শেষের দিকে সম্ভবত এলাকাটি পরিত্যক্ত হয়। মানুক হাউজ নামের একটি ভবন এখনও বঙ্গভবন চত্বরে রয়েছে। ধারণা করা হয় যে, এটি ব্রিটিশ আমলে মানুক
+নামের একজন আর্মেনীয় জমিদারের বাসস্থান ছিল। ঢাকার নবাব আবদুল গণি জায়গাটি মানুকের কাছ থেকে ক্রয় করেন। সেখানে তিনি একটি বাংলো নির্মাণ করেন এবং স্থানটির নাম দেন
+দিলকুশা বাগ।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৯০৫ সালে বঙ্গভঙ্গের সময় পূর্ববাংলা ও আসাম সরকার জায়গাটির একাংশ ক্রয় করে সেখানে ভারতের ভাইসরয়ের জন্য একটি ভবন নির্মাণ করে। পূর্ববাংলায় তার সফর ও অবস্থানকালে
+ভাইসরয় ১৯১১ সাল পর্যন্ত এখানেই বাস করতেন। ১৯৪৭ সাল পর্যন্ত এটি গভর্নর হাউজ নামেই পরিচিত ছিল। ১৯৬১ সালের ঝড়ে ভবনটি ক্ষতিগ্রস্ত হলে এটি পুনর্নিমাণ করা হয়। ১৯৬৪ সালে
+নতুন ভবনের নির্মাণকাজ সম্পন্ন হয়। পূর্ব পাকিস্তানের গভর্নর এখানে বসবাস করতেন।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বিচারপতি আবু সাঈদ চৌধুরী বাংলাদেশের প্রথম সাংবিধানিক রাষ্ট্রপতি হওয়ার পর ১৯৭২ সালের ১২ জানুয়ারি এর নামকরণ হয় বঙ্গভবন।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বঙ্গভবনের চার পাশে রয়েছে উচ্চ সীমানা প্রাচীর। প্রধান ভবনটি তিন তলা বিশিষ্ট একটি প্রাসাদোপম অট্টালিকা। এই ভবনের চতুষ্পার্শ্ব সবুজ বৃক্ষরাজি পরিবেষ্টিত। নীচের তলার মেঝের
+আয়তন ৬,৭০০ বর্গমিটার। উত্তর-পূর্ব কোণের দুটি তলা জুড়ে রয়েছে রাষ্ট্রপতির আবাসস্থল। পাঁচটি সুসজ্জিত প্রশস্ত শয়নকক্ষসহ রাষ্ট্রপতির জন্য দুটি স্যুট রয়েছে। রাষ্ট্রপতির দপ্তর,
+রাষ্ট্রপতির অসামরিক ও সামরিক সচিবদের দপ্তর, অন্যান্য কর্মকর্তাদের দপ্তর, দেশী ও বিদেশী দর্শনার্থীদের সঙ্গে সাক্ষাতের জন্য পৃথক পৃথক কক্ষ নিচের তলায় অবস্থিত। এসব ছাড়াও
+সেখানে রয়েছে কেবিনেট কক্ষ, অনুষ্ঠানের জন্য নির্দিষ্ট হলঘর, দরবার কক্ষ, রাষ্ট্রীয় ভোজসভার জন্য নির্ধারিত হল, ছোট আকারের মিলনায়তন এবং স্থানীয় দর্শনার্থীদের জন্য বিশ্রামকক্ষ।
+রাষ্ট্রপতির আবাসস্থল ছাড়াও দ্বিতীয় তলায় রয়েছে কর্মকর্তাদের জন্য পাঁচটি কক্ষ, একটি নিয়ন্ত্রন কক্ষ এবং একটি স্টুডিও। বিদেশী রাষ্ট্রপ্রধান ও সরকার প্রধানদের জন্য তিন তলায় রয়েছে
+চারটি স্যুট।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বঙ্গভবনের মূল ফটকের কাছাকাছি রয়েছে নিরাপত্তা দপ্তর, ডাকঘর, ব্যাংক, ক্যান্টিন, দরজিখানা, তিন গম্বুজ বিশিষ্ট মসজিদ এবং রাষ্ট্রপতির গার্ড রেজিমেন্টের ব্যারাক। রাষ্ট্রপতির
+সচিবালয়ের কর্মকর্তা ও কর্মচারীদের আবাসিক কোয়ার্টার বঙ্গভবনের পার্শ্ববর্তী তিনটি স্থানে অবস্থিত। এছাড়া রাষ্ট্রপতির সামরিক সচিব ও সহকারি সামরিক সচিবের জন্য পৃথক দুটি
+বাংলো রয়েছে। বঙ্গভবনে রয়েছে ৪৭ একর জমির এক উন্মুক্ত অঙ্গন।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

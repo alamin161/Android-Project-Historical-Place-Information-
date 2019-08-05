@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Gandhi_Ashram">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="27sp"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="গান্ধী আশ্রম"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="গান্ধী আশ্রম  নোয়াখালী জেলা সদর থেকে প্রায় ৩০ কিলোমিটার উত্তরে বেগমগঞ্জ উপজেলার জয়াগ গ্রামে অবস্থিত একটি জনহিতকর ও সমাজকল্যাণমূলক প্রতিষ্ঠান।
+এটি ১৯৪৬ সাল থেকে শান্তি ও সামাজিক সম্প্রীতির গান্ধীয় দর্শনের ওপর কাজ করছে। নোয়াখালী, লক্ষ্মীপুর ও ফেনী জেলার চারটি উপজেলার ১০২টি গ্রাম এবং নোয়াখালী ও
+চাটখিল পৌরসভা এলাকায় প্রতিষ্ঠানটির কার্যক্রম বিস্তৃত।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ভারত ছাড় আন্দোলন-এর শেষদিকে ১৯৪৬ সালের জুলাই-আগস্ট মাসে বৃহত্তর নোয়াখালী জেলার সর্বত্র সাম্প্রদায়িক দাঙ্গা ছড়িয়ে পড়ে। মহাত্মা গান্ধী ‘শান্তি মিশনে’
+দ্রুত নোয়াখালী ছুটে যান। ১৯৪৬ সালের ৭ নভেম্বর তিনি চৌমুহনী রেলস্টেশনে অবতরণ করেন। আইনসভার স্থানীয় সদস্যের সভাপতিত্বে অনুষ্ঠিত এক জনসভায় গান্ধী শান্তি ও
+ভালবাসার জন্য উদাত্ত আহবান জানান। দেশ ও বিদেশ থেকে যোগদানকারী স্বেচ্ছাসেবকদের নিয়ে তিনি তার শান্তি মিশন চালিয়ে যান। তিনি গ্রাম থেকে গ্রামান্তরে ছুটে যান এবং
+জনগণের মধ্যে সাম্প্রদায়িক ঐক্য প্রতিষ্ঠায় নিরলস কাজ করতে থাকেন। অহিংসা এবং নৈতিকতা, সত্য ও মানবাধিকারের প্রতি শ্রদ্ধাবোধের নীতি তার মিশনকে সফল করে তোলে।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১৯৪৭ সালের ২৯ জানুয়ারি গান্ধী জয়াগ পৌঁছেন। স্থানীয় জমিদার এবং নোয়াখালী জেলার প্রথম ব্যারিস্টার হেমন্তকুমার ঘোষ তার স্থাবর অস্থাবর সম্পত্তি মহাত্মাকে দান করেন। গান্ধী ‘
+অম্বিকা-কালীগঙ্গা দাতব্য ট্রাস্ট’ প্রতিষ্ঠা করেন এবং সে মর্মে এক দলিল নিবন্ধিত করেন। জনকল্যাণে নিবেদিত চারু চৌধুরীর অনুকূলে এক আমমোক্তারনামা সম্পাদিত হয়। স্থানীয়
+জনগণের স্বার্থে পূর্ণোদ্যমে উন্নয়ন কর্মকান্ড শুরু হয়। চারমাসব্যাপী মহাত্মা চাঁদপুর ও নোয়াখালীর বিভিন্ন অংশ ভ্রমণ করেন।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সাধারণ্যে গান্ধী আশ্রম ট্রাস্ট নামে পরিচিত ‘অম্বিকা-কালীগঙ্গা দাতব্য ট্রাস্ট’-এর উন্নয়নমূলক ও দাতব্য কার্যক্রম দুটি লক্ষ্যে পরিচালিত হয়। প্রাথমিক পর্যায়ে গান্ধী আশ্রম ট্রাস্ট দাতব্য
+কার্যক্রম হাতে নেয় এবং দাঙ্গায় ক্ষতিগ্রস্তদের পুনর্বাসনের কাজ শুরু করে। উদ্বুদ্ধকরণ কার্যক্রম ছাড়াও সমগ্র এলাকায় সাম্প্রদায়িক সম্প্রীতি জোরদার করার কর্মসূচি গ্রহণ করা হয়।
+১৯৪৭ সালে ভারত বিভাগের পূর্ব পর্যন্ত এসব কর্মকান্ড চালু ছিল।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বাংলাদেশের অভ্যুদয়ের পর গান্ধী আশ্রমের দৃষ্টিভঙ্গি ও উদ্দেশ্যের পরিবর্তন ঘটে। সরকার একে একটি অরাজনৈতিক ও অসাম্প্রদায়িক জনকলাণমূলক সংস্থায় পরিণত করেন। দরিদ্র ও
+বঞ্চিত জনগোষ্ঠীর উন্নয়ন ও কল্যাণের লক্ষ্যে একটি কমিটি এর সকল কার্যক্রম পরিচালনা করে। বর্তমানে ট্রাস্ট যেসব কার্যক্রমে নিয়োজিত তার মধ্যে উল্লেখযোগ্য হচ্ছে প্রতিষ্ঠান নির্মাণ,
+ প্রশিক্ষণ, অনাময়ব্যবস্থা, হ্যাচারি, কৃষি, দুগ্ধ খামার, জীবপদ্ধতি নির্ভর কৃষি প্রদর্শনী খামার, ইউনিয়ন পরিষদের নির্বাচিত মহিলা সদস্যদের নেতৃত্বের উন্নয়ন, খাদ্য প্রক্রিয়াকরণ ও সংরক্ষণ,
+ কাপড় রঙ করা, বস্ত্রবয়ন, সেলাই ও সূচিকর্ম।"/>
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ট্রাস্টটি হিসাবরক্ষণ, নারীর আইনগত অধিকার এবং ক্ষুদ্র ব্যবসা ব্যবস্থাপনা বিষয়ে মৌলিক প্রশিক্ষণ দান করে। এটি প্রাতিষ্ঠানিক ঋণ-বাজারে সদস্যদের অবাধ প্রবেশ ও দুর্গতদের
+অর্থনৈতিক স্বচ্ছলতা নিশ্চিত করে এবং নারীর অন্তর্নিহিত শক্তি ও ক্ষমতায়ন দৃঢ় করে। পয়ঃনিষ্কাশন কর্মসূচিতে ট্রাস্ট নিরাপদ পানীয় জল সরবরাহ ও পাকা পায়খানার মান নিশ্চিত
+করে এবং জলবাহিত রোগ হ্রাস করার চেষ্টাও করে। ট্রাস্ট একটি নিম্ন মাধ্যমিক বিদ্যালয় ও একটি অনানুষ্ঠানিক প্রাথমিক বিদ্যালয় পরিচালনা করে। গান্ধী আশ্রম ট্রাস্ট কর্মসূচির মাধ্যমে
+বর্তমানে প্রায় এক লক্ষ লোক উপকৃত হচ্ছে। "/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

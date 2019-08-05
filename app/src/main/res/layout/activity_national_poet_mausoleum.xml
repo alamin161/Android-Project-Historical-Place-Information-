@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".National_poet_mausoleum">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:padding="5dp"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ঢাকা বিশ্ববিদ্যালয় এলাকায় পাবলিক লাইব্রেরির কাছেই জাতীয় কবি কাজী নজরুল ইসলামের সমাধি অবস্থিত। বিদ্রোহী কবি কাজী নজরুল ইসলাম ১৯৭৬ সালে ঢাকায় মৃত্যুবরন করেন।
+স্বাধীনতা যুদ্ধের পরপরই বিদ্রোহী কবিকে ভারত থেকে এদেশে নিয়ে আসা হয়। জীবনের শেষ প্রান্তে তিনি মানসিক ও শারীরিকভাবে অসুস্থ ছিলেন। গানের মাধ্যমে ব্যাক্ত শেষ ইচ্ছা অনুযায়ী
+কবিকে ঢাকা বিশ্ববিদ্যালয় মসজিদের পাশেই সমাহিত করা হয়। ঢাকা বিশ্ববিদ্যালয়ের টিএসসি (ছাত্র-শিক্ষক কেন্দ্র) অতিক্রমের সময় অনেকেই কবির সমাধি দেখতে আসেন।"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
